@@ -1,8 +1,8 @@
 {
-  "versionCode": 947,
-  "versionName": "0.1.947",
+  "versionCode": 951,
+  "versionName": "0.1.951",
   "apk": "oagent.apk.enc",
-  "sha256": "6f667ee9e259e4638248fb26319b6da03d251c382e8cf48d4587e8925be7d6cd",
+  "sha256": "de87cf2b4d30f3fb0fb0d312fffa64ae19720beb5fea93c2c304db192a1fea29",
   "size": 836416,
-  "notes": "Settings drawer: narrower (3/4 of the width, at most 280 dp), tighter rows below the tab bar; the menu button stays over it and closes it, as do Back and a tap outside"
+  "notes": "Tabs: × on each, a long press for Close / Close others, a tab bar that scrolls when they overflow, + only for a tap that ends on it; Close all tabs and Check for updates (with the version) at the top of a drawer that scrolls"
 }
