@@ -1,8 +1,8 @@
 {
-  "versionCode": 933,
-  "versionName": "0.1.933",
+  "versionCode": 935,
+  "versionName": "0.1.935",
   "apk": "oagent.apk.enc",
-  "sha256": "fc1e528470a27794d8a6b1bbe2ab5b4265ad7ee6249142bb5bf2a01ca93a2d60",
+  "sha256": "a383ee458eaf5f9188731e5c5a067c929c665a3f0075c9bed1f2785e81f1b36d",
   "size": 807744,
-  "notes": "Set up for the user: the terminal shrinks above the keyboard, oscar@oscar-phone by default (Settings, Name), the first run installs the usual tools and applies osarv/oinit's config"
+  "notes": "Icon: the Odysx O ring with a four-pointed spark in its centre (adaptive and monochrome layers; preview assets/brand/oagent-icon-preview.png)"
 }
