@@ -1,8 +1,8 @@
 {
-  "versionCode": 937,
-  "versionName": "0.1.937",
+  "versionCode": 941,
+  "versionName": "0.1.941",
   "apk": "oagent.apk.enc",
-  "sha256": "8a87525f304cf14e1ed9f23eb49ea504499d0d96be0115eb10c32b5186394e8f",
-  "size": 807744,
-  "notes": "Settings from an always-shown tab bar's ⋮ (lit when an update waits); no right-edge swipe, Android's back gesture; a new version checks for updates at once"
+  "sha256": "66271a3c4d3dc2b230e35ce73b8364a02176d0167724ca1b901a483ea7be0150",
+  "size": 811840,
+  "notes": "Menu button at the top left opens settings as a left drawer (a dot when an update waits); long press with Android's timeout selects, a moving touch scrolls with fling, double tap opens the keyboard; Copy/Paste/Select all pill; side insets and insets asked again per window"
 }
