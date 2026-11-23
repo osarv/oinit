@@ -1,8 +1,8 @@
 {
-  "versionCode": 985,
-  "versionName": "0.1.985",
-  "apk": "oagent-985.apk.enc",
-  "sha256": "4102e7d29520858f8057812d7f4fd365b25411c5f4f0f33d249ae83ed59c1920",
-  "size": 906048,
-  "notes": "Conversations with Claude: command blocks shared only as the user chooses (the last one by default, a tap on its $), Claude's run_command proposals with a Run tap (tool use; replies kept as content blocks, thinking signatures included, so the history stays exact for caching), Claude goes on with the output"
+  "versionCode": 987,
+  "versionName": "0.1.987",
+  "apk": "oagent-987.apk.enc",
+  "sha256": "8ceaf26fe979b9801e017e606f8039c44e951319591fa0042bcab3b129d22576",
+  "size": 910144,
+  "notes": "No external product named in the UI (New chat session, Chat, API key, Model effort); Test API key (GET /v1/models); a failed request shows the API's whole answer; dictation shows it is starting and listening, and names the missing recognizer"
 }
