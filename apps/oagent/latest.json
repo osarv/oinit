@@ -1,8 +1,8 @@
 {
-  "versionCode": 951,
-  "versionName": "0.1.951",
-  "apk": "oagent.apk.enc",
-  "sha256": "de87cf2b4d30f3fb0fb0d312fffa64ae19720beb5fea93c2c304db192a1fea29",
+  "versionCode": 954,
+  "versionName": "0.1.954",
+  "apk": "oagent-954.apk.enc",
+  "sha256": "a45409425d6f60f98780b3e32ffe0c96897536f61cb13a10db6974d925abce56",
   "size": 836416,
-  "notes": "Tabs: × on each, a long press for Close / Close others, a tab bar that scrolls when they overflow, + only for a tap that ends on it; Close all tabs and Check for updates (with the version) at the top of a drawer that scrolls"
+  "notes": "Updater: each release's file named by its version (oagent-N.apk.enc), latest.json fetched past the host's cache, a mismatch said plainly with a retry; drawer labels kept inside it"
 }
