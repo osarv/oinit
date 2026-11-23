@@ -1,8 +1,8 @@
 {
-  "versionCode": 943,
-  "versionName": "0.1.943",
+  "versionCode": 945,
+  "versionName": "0.1.945",
   "apk": "oagent.apk.enc",
-  "sha256": "7496330d646472bf5289088099511bbeef3304fe5bfb957630f2fe9dab6167f9",
-  "size": 811840,
-  "notes": "Start watched: the update check and the system's settings wait for the first frame; a 5 s watchdog names the stage a stalled start reached (logcat, and the next start says it)"
+  "sha256": "2f26329a012dafdab0e5d1791057e311cb6006578020a2fc0ad92f51785fd913",
+  "size": 832320,
+  "notes": "Dictation says why it failed ([oagent] dictation: reason (code)), falls back from the on-device recognizer, sends a refused microphone to the app's settings; automatic error reports to osarv/orchestrator#1 with a token from Settings"
 }
