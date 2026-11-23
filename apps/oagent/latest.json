@@ -1,8 +1,8 @@
 {
-  "versionCode": 966,
-  "versionName": "0.1.966",
-  "apk": "oagent-966.apk.enc",
-  "sha256": "65174a6232d39f37514a59bf1fb4402841685a6be57669a577116ce003f9c714",
-  "size": 848704,
-  "notes": "Never no tab: closing the last one opens a fresh terminal tab (the bar stays); the Claude key cleaned on paste, sealed, read back and opened before it counts as saved, and every failure said ([oagent] Claude key: ...)"
+  "versionCode": 969,
+  "versionName": "0.1.969",
+  "apk": "oagent-969.apk.enc",
+  "sha256": "31153786251a740fb800725e16ee188ea64fcd5ec38345c20c9289eb52d531c9",
+  "size": 852800,
+  "notes": "Updater: latest.json through GitHub's contents API (raw.githubusercontent caches each file 5 minutes whatever the query), raw as the fallback"
 }
