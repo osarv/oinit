@@ -1,8 +1,8 @@
 {
-  "versionCode": 980,
-  "versionName": "0.1.980",
-  "apk": "oagent-980.apk.enc",
-  "sha256": "cf446f68d6318b2c79312b8280628fda1a4493751ba7f691908059008efdf02a",
-  "size": 856896,
-  "notes": "Java strings read as UTF-8 byte arrays too (getBytes), the mirror of jstring; a pasted key kept whole across line breaks and zero-width spaces; a tap on the key prompt pastes the clipboard"
+  "versionCode": 982,
+  "versionName": "0.1.982",
+  "apk": "oagent-982.apk.enc",
+  "sha256": "68d9c21c12d4c2ff7052a59fda0ec2e3b2212c7c34295d563b35c9954e39078a",
+  "size": 869184,
+  "notes": "Conversations: chat and commands in one view, the default; a command runs in the tab's own shell and shows as a block with its status, folds with a tap, takes keys while it runs; full-screen programs take the pane and give it back; Terminal view row; fix: closing a tab closed the tab at its root node's index"
 }
