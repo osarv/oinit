@@ -1,8 +1,8 @@
 {
-  "versionCode": 959,
-  "versionName": "0.1.959",
-  "apk": "oagent-959.apk.enc",
-  "sha256": "a2e7a7f43450622ce3e07bca1b48fb3f794352f656267d9fd4662b8e9f23d2a0",
+  "versionCode": 963,
+  "versionName": "0.1.963",
+  "apk": "oagent-963.apk.enc",
+  "sha256": "fe6b347171e225386e7b8a2c7aa1785d1d94e61789e933b481cf8ef3974b9ce4",
   "size": 844608,
-  "notes": "Release safety: the APK's version really set (--replace-version; every APK so far said versionCode 1), each updater failure names its cause on screen and in a report, a start self-test, the build runs the tests first and checks the release as the updater will (tools/releasecheck.olang, AES-GCM open in tools/aesgcm.olang)"
+  "notes": "Default name oscar@oscarphone; a stored old default moves to it, a chosen name is kept"
 }
