@@ -1,8 +1,8 @@
 {
-  "versionCode": 945,
-  "versionName": "0.1.945",
+  "versionCode": 947,
+  "versionName": "0.1.947",
   "apk": "oagent.apk.enc",
-  "sha256": "2f26329a012dafdab0e5d1791057e311cb6006578020a2fc0ad92f51785fd913",
-  "size": 832320,
-  "notes": "Dictation says why it failed ([oagent] dictation: reason (code)), falls back from the on-device recognizer, sends a refused microphone to the app's settings; automatic error reports to osarv/orchestrator#1 with a token from Settings"
+  "sha256": "6f667ee9e259e4638248fb26319b6da03d251c382e8cf48d4587e8925be7d6cd",
+  "size": 836416,
+  "notes": "Settings drawer: narrower (3/4 of the width, at most 280 dp), tighter rows below the tab bar; the menu button stays over it and closes it, as do Back and a tap outside"
 }
