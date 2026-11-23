@@ -1,8 +1,8 @@
 {
-  "versionCode": 969,
-  "versionName": "0.1.969",
-  "apk": "oagent-969.apk.enc",
-  "sha256": "31153786251a740fb800725e16ee188ea64fcd5ec38345c20c9289eb52d531c9",
+  "versionCode": 975,
+  "versionName": "0.1.975",
+  "apk": "oagent-975.apk.enc",
+  "sha256": "79e545740e5556e3b5e763240b809394fe03f56d1eb39abab6716c63b5fc915f",
   "size": 852800,
-  "notes": "Updater: latest.json through GitHub's contents API (raw.githubusercontent caches each file 5 minutes whatever the query), raw as the fallback"
+  "notes": "Claude key: sealed and opened as bytes (byte arrays across JNI, hex in the file), never as strings; Main.java's failures come back with their full text"
 }
