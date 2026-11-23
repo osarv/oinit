@@ -1,8 +1,8 @@
 {
-  "versionCode": 954,
-  "versionName": "0.1.954",
-  "apk": "oagent-954.apk.enc",
-  "sha256": "a45409425d6f60f98780b3e32ffe0c96897536f61cb13a10db6974d925abce56",
-  "size": 836416,
-  "notes": "Updater: each release's file named by its version (oagent-N.apk.enc), latest.json fetched past the host's cache, a mismatch said plainly with a retry; drawer labels kept inside it"
+  "versionCode": 957,
+  "versionName": "0.1.957",
+  "apk": "oagent-957.apk.enc",
+  "sha256": "6ea7d30f0bc0c1c2a0b619a9abba8a33fd17d9ee4baa35c2cf677b6aa53599d4",
+  "size": 840512,
+  "notes": "Claude chat: the usage log's loop name"
 }
