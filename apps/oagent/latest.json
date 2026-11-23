@@ -1,8 +1,8 @@
 {
-  "versionCode": 957,
-  "versionName": "0.1.957",
-  "apk": "oagent-957.apk.enc",
-  "sha256": "6ea7d30f0bc0c1c2a0b619a9abba8a33fd17d9ee4baa35c2cf677b6aa53599d4",
-  "size": 840512,
-  "notes": "Claude chat: the usage log's loop name"
+  "versionCode": 959,
+  "versionName": "0.1.959",
+  "apk": "oagent-959.apk.enc",
+  "sha256": "a2e7a7f43450622ce3e07bca1b48fb3f794352f656267d9fd4662b8e9f23d2a0",
+  "size": 844608,
+  "notes": "Release safety: the APK's version really set (--replace-version; every APK so far said versionCode 1), each updater failure names its cause on screen and in a report, a start self-test, the build runs the tests first and checks the release as the updater will (tools/releasecheck.olang, AES-GCM open in tools/aesgcm.olang)"
 }
