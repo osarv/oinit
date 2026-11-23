@@ -1,8 +1,8 @@
 {
-  "versionCode": 928,
-  "versionName": "0.1.928",
+  "versionCode": 930,
+  "versionName": "0.1.930",
   "apk": "oagent.apk.enc",
-  "sha256": "ec6de535c9de7f6520dcffc0a7a9c2f9438f930da8212cf20785878ecff82b1b",
+  "sha256": "efb81b8a75e72220cb985e7ed4154b0bc9495baacf9a308a2995b0521b3bcc15",
   "size": 787264,
-  "notes": "Encrypted releases from osarv/oinit's apps/oagent/: the build seals dist/oagent.apk.enc with android/release.key, built into the app"
+  "notes": "Claude chat: honest client identity (OAgent's own), documented headers only, tab named Claude (API); the no-impersonation rule recorded"
 }
