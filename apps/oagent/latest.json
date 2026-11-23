@@ -1,8 +1,8 @@
 {
-  "versionCode": 977,
-  "versionName": "0.1.977",
-  "apk": "oagent-977.apk.enc",
-  "sha256": "cfbfcb9a221e45714f1cabb724244b5681e649a1613ebeb14be05c4a036bbb02",
+  "versionCode": 980,
+  "versionName": "0.1.980",
+  "apk": "oagent-980.apk.enc",
+  "sha256": "cf446f68d6318b2c79312b8280628fda1a4493751ba7f691908059008efdf02a",
   "size": 856896,
-  "notes": "Java strings made from UTF-8 byte arrays (NewStringUTF on a C string garbled longer ones: the sealed key, the x-api-key header); the API key's fingerprint shown when saved and with a 401; the pasted key taken from sk-ant- on; 'API key' in Settings"
+  "notes": "Java strings read as UTF-8 byte arrays too (getBytes), the mirror of jstring; a pasted key kept whole across line breaks and zero-width spaces; a tap on the key prompt pastes the clipboard"
 }
