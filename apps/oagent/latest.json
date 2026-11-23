@@ -1,8 +1,8 @@
 {
-  "versionCode": 975,
-  "versionName": "0.1.975",
-  "apk": "oagent-975.apk.enc",
-  "sha256": "79e545740e5556e3b5e763240b809394fe03f56d1eb39abab6716c63b5fc915f",
-  "size": 852800,
-  "notes": "Claude key: sealed and opened as bytes (byte arrays across JNI, hex in the file), never as strings; Main.java's failures come back with their full text"
+  "versionCode": 977,
+  "versionName": "0.1.977",
+  "apk": "oagent-977.apk.enc",
+  "sha256": "cfbfcb9a221e45714f1cabb724244b5681e649a1613ebeb14be05c4a036bbb02",
+  "size": 856896,
+  "notes": "Java strings made from UTF-8 byte arrays (NewStringUTF on a C string garbled longer ones: the sealed key, the x-api-key header); the API key's fingerprint shown when saved and with a 401; the pasted key taken from sk-ant- on; 'API key' in Settings"
 }
