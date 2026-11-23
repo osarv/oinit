@@ -1,8 +1,8 @@
 {
-  "versionCode": 930,
-  "versionName": "0.1.930",
+  "versionCode": 933,
+  "versionName": "0.1.933",
   "apk": "oagent.apk.enc",
-  "sha256": "efb81b8a75e72220cb985e7ed4154b0bc9495baacf9a308a2995b0521b3bcc15",
-  "size": 787264,
-  "notes": "Claude chat: honest client identity (OAgent's own), documented headers only, tab named Claude (API); the no-impersonation rule recorded"
+  "sha256": "fc1e528470a27794d8a6b1bbe2ab5b4265ad7ee6249142bb5bf2a01ca93a2d60",
+  "size": 807744,
+  "notes": "Set up for the user: the terminal shrinks above the keyboard, oscar@oscar-phone by default (Settings, Name), the first run installs the usual tools and applies osarv/oinit's config"
 }
