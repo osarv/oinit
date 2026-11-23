@@ -1,8 +1,8 @@
 {
-  "versionCode": 935,
-  "versionName": "0.1.935",
+  "versionCode": 937,
+  "versionName": "0.1.937",
   "apk": "oagent.apk.enc",
-  "sha256": "a383ee458eaf5f9188731e5c5a067c929c665a3f0075c9bed1f2785e81f1b36d",
+  "sha256": "8a87525f304cf14e1ed9f23eb49ea504499d0d96be0115eb10c32b5186394e8f",
   "size": 807744,
-  "notes": "Icon: the Odysx O ring with a four-pointed spark in its centre (adaptive and monochrome layers; preview assets/brand/oagent-icon-preview.png)"
+  "notes": "Settings from an always-shown tab bar's ⋮ (lit when an update waits); no right-edge swipe, Android's back gesture; a new version checks for updates at once"
 }
