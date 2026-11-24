@@ -1,8 +1,8 @@
 {
-  "versionCode": 1364,
-  "versionName": "0.1.1364",
-  "apk": "oagent-1364.apk.enc",
-  "sha256": "71d759488a509cf9d856a2714ed2aba1b2c6bba9647192b98dd224dcb45d901b",
-  "size": 1577866,
-  "notes": "Dictation speed: live passes settle by agreement (LocalAgreement-2: agreed segments settle, agreed tokens force-fed as the next pass's start), the stop reuses the last live pass when no speech came after it, worker threads = big cores, per-stage timings in a device perf report"
+  "versionCode": 1376,
+  "versionName": "0.1.1376",
+  "apk": "oagent-1376.apk.enc",
+  "sha256": "c11c54dae37ce1da49de1bc32693b59f54b2ebec939b4fcef2d71ceb305e00be",
+  "size": 1663882,
+  "notes": "home: install.sh no longer puts a backup's nftables.conf back (it undid firewall.sh's newer rules); firewall.sh writes the firewall whole"
 }
