@@ -1,8 +1,8 @@
 {
-  "versionCode": 1103,
-  "versionName": "0.1.1103",
-  "apk": "oagent-1103.apk.enc",
-  "sha256": "96b47f7dea95ba3ae20e2e9a48e0b83909875edf0cd131849aadfd1942776873",
-  "size": 1168192,
-  "notes": "Phone: dictation as a recording bar (waveform, time, cancel, stop)"
+  "versionCode": 1105,
+  "versionName": "0.1.1105",
+  "apk": "oagent-1105.apk.enc",
+  "sha256": "b5bbd20d64f4c7e195467c5c1a548ba7a6dc09199b68148e7af45c3be0a19633",
+  "size": 1180480,
+  "notes": "Phone: a device perf report for slow frames; the drawer slides by time, its text warmed ahead, dirty-rect atlas uploads, a vertex buffer per batch"
 }
