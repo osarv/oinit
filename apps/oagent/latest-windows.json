@@ -1,8 +1,8 @@
 {
-  "versionCode": 1350,
-  "versionName": "0.1.1350",
-  "exe": "OAgent-1350.exe.enc",
-  "sha256": "0ed53696c8ab7b4fcfce48b3d5e8bb8cf4c6f889d07188700d159480e58b7f62",
-  "size": 4155904,
-  "notes": "Phone: release 0.1.1350 (Decisions log, ask_user, Audit at top level, drawer order Decisions/Agents/Audit/Memory)"
+  "versionCode": 1355,
+  "versionName": "0.1.1355",
+  "exe": "OAgent-1355.exe.enc",
+  "sha256": "77bed9978f871197a88f93706bde192f0db0fce155438639340f938ac945b812",
+  "size": 4190208,
+  "notes": "Phone: release 0.1.1355"
 }
