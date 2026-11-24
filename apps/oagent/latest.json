@@ -1,8 +1,8 @@
 {
-  "versionCode": 1186,
-  "versionName": "0.1.1186",
-  "apk": "oagent-1186.apk.enc",
-  "sha256": "adf976da20e54614003c3b04a35baaa18bf087f093bf24e54da9cb7989813f0e",
+  "versionCode": 1188,
+  "versionName": "0.1.1188",
+  "apk": "oagent-1188.apk.enc",
+  "sha256": "234df6c90db7b5f8ab54676cccfdebb2838f677aa819ea414ad74c649f91bf7c",
   "size": 1282954,
-  "notes": "Phone: the recording bar's check is the one to press: in the accent, larger, a halo that breathes with the voice; × quiet"
+  "notes": "Phone: dictation's stop in the recording red (a token for the recording state only), a fifth larger, the halo in the same red"
 }
