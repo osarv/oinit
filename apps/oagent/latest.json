@@ -1,8 +1,8 @@
 {
-  "versionCode": 1062,
-  "versionName": "0.1.1062",
-  "apk": "oagent-1062.apk.enc",
-  "sha256": "6fb557f39876fc9ddd6868941d1db24002259ec0faf074c000b0a9b747b90a52",
-  "size": 1000256,
-  "notes": "Phone: the API's web search and fetch in Agent mode with allow all; pause_turn goes on"
+  "versionCode": 1078,
+  "versionName": "0.1.1078",
+  "apk": "oagent-1078.apk.enc",
+  "sha256": "843a8a5c5094167290936d325722bb4584b084f28fb268fb638985a1c3768fa5",
+  "size": 1164096,
+  "notes": "Phone: our dictation model off until its own release (Android's recognizer meanwhile)"
 }
