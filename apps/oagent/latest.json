@@ -1,8 +1,8 @@
 {
-  "versionCode": 1330,
-  "versionName": "0.1.1330",
-  "apk": "oagent-1330.apk.enc",
-  "sha256": "d08c99318a7e136e1de1169655bd2952cac44316c22e55287dc722bc6eef067e",
+  "versionCode": 1344,
+  "versionName": "0.1.1344",
+  "apk": "oagent-1344.apk.enc",
+  "sha256": "bbd31b07cd635c22e9fd6dacc22d0a98c18f83bee697e12947aa1c5cf27125b0",
   "size": 1495946,
-  "notes": "Phone: UI release: splash ground fixed and mark larger, toggles never both off, drawer order and Version row in Advanced with Update available at the top, update check at start and every 6 h on screen, memory files in the overlay, waveform gated and scrolling left, composer selection (dictation replaces or inserts at the caret), Master renamed OAgent, Spending, full Odysx logo in an empty chat, model picker centred, full model list, sub-agent permission clamp"
+  "notes": "Shared UI: the empty-chat logo at the optical centre of the chat area (9/20 down, was 2/5); the phone's glyphs sampled nearest (the atlas is already at the screen's own pixels: the surface is the native window's full size, density from the display's dpi)"
 }
