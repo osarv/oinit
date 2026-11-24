@@ -1,8 +1,8 @@
 {
-  "versionCode": 1281,
-  "versionName": "0.1.1281",
-  "apk": "oagent-1281.apk.enc",
-  "sha256": "61a001325e98468ac2065c452188457f41bd58bace94a29a6e938af9332a9322",
+  "versionCode": 1298,
+  "versionName": "0.1.1298",
+  "apk": "oagent-1298.apk.enc",
+  "sha256": "7115dd513f6e6f4b527731eaecc38ef226673a541261260ff47b7a066fbf06fc",
   "size": 1430410,
-  "notes": "Phone: the overlay's text selection and copy, fling coasting and caret drag (as in the Chat); taps reach it while the drawer slides away; README: the one-agent design"
+  "notes": "home: the nightly backup a system timer run as the ohome user (enabled in /etc: survives the overlay, needs no lingering), plus a boot run 10 min after boot that does nothing when a backup is under 20 h old (--due); lost+found fix included"
 }
