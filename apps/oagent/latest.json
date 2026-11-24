@@ -1,8 +1,8 @@
 {
-  "versionCode": 1142,
-  "versionName": "0.1.1142",
-  "apk": "oagent-1142.apk.enc",
-  "sha256": "e13f15148b478d388c2bcd2c57e4bb96a6bb4f6a6fb62363ee82ae51aaa64a88",
-  "size": 1229706,
-  "notes": "Phone: hand-off note (device build cost open, reports on #2)"
+  "versionCode": 1161,
+  "versionName": "0.1.1161",
+  "apk": "oagent-1161.apk.enc",
+  "sha256": "72632737df40b5558023472081fbdfef82bae735cd93549c79d643687a8caa1f",
+  "size": 1233802,
+  "notes": "Phone: a one-shot bench of the build's ingredients after the first frame, in the log and the perf report (the device-only build cost)"
 }
