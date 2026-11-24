@@ -1,8 +1,8 @@
 {
-  "versionCode": 1312,
-  "versionName": "0.1.1312",
-  "apk": "oagent-1312.apk.enc",
-  "sha256": "d8f78ecfca6a669cfb26b7e618d2668dfa147850bc235d3790b582cab94daba5",
-  "size": 1463178,
-  "notes": "Phone: dictation decoded as Whisper's reference reads long sound (30 s windows with timestamps, text carried as prompt, temperature fallback on gzip ratio > 2.4 or logprob < -1, silence skipped, repeated segments dropped, token cap): no more loops"
+  "versionCode": 1316,
+  "versionName": "0.1.1316",
+  "apk": "oagent-1316.apk.enc",
+  "sha256": "5add7f31886b322740c5ebc170ff8f97b95c62990025935ee5ee019f2496de91",
+  "size": 1483658,
+  "notes": "Phone: multi-line terminal pastes previewed before they are written; links show their host with not-HTTPS/punycode/lookalike/user-info flags and open only on a tap (http/https only); audit-log viewer in the drawer (Advanced)"
 }
