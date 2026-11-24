@@ -1,8 +1,8 @@
 {
-  "versionCode": 1093,
-  "versionName": "0.1.1093",
-  "apk": "oagent-1093.apk.enc",
-  "sha256": "5058c39f86d01e48ead34bdbfce01c4fe89cec790f836988b9ba5d620b068441",
-  "size": 1164096,
-  "notes": "Phone: a window redraw's frame timed too (the Android build of the frame times)"
+  "versionCode": 1103,
+  "versionName": "0.1.1103",
+  "apk": "oagent-1103.apk.enc",
+  "sha256": "96b47f7dea95ba3ae20e2e9a48e0b83909875edf0cd131849aadfd1942776873",
+  "size": 1168192,
+  "notes": "Phone: dictation as a recording bar (waveform, time, cancel, stop)"
 }
