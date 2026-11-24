@@ -1,8 +1,8 @@
 {
-  "versionCode": 1184,
-  "versionName": "0.1.1184",
-  "apk": "oagent-1184.apk.enc",
-  "sha256": "dc7c6e887f3152e0fbe585c7dea31a763641de1526e9a3e2cd7903e0aff231c2",
+  "versionCode": 1186,
+  "versionName": "0.1.1186",
+  "apk": "oagent-1186.apk.enc",
+  "sha256": "adf976da20e54614003c3b04a35baaa18bf087f093bf24e54da9cb7989813f0e",
   "size": 1282954,
-  "notes": "Phone: providers - API keys per provider (Anthropic, GitHub; migrated), error reports a plain switch, spend meter, model chooser"
+  "notes": "Phone: the recording bar's check is the one to press: in the accent, larger, a halo that breathes with the voice; × quiet"
 }
