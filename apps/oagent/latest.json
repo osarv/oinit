@@ -1,8 +1,8 @@
 {
-  "versionCode": 1182,
-  "versionName": "0.1.1182",
-  "apk": "oagent-1182.apk.enc",
-  "sha256": "cbebf5a737a626726f267cc3e265baa8926a45cb3be815d62fce585ae494ed7c",
-  "size": 1237898,
-  "notes": "Phone: an animation that ends on a frame's tick still gets that frame drawn (a reply's last glyphs stayed half faded until a touch)"
+  "versionCode": 1184,
+  "versionName": "0.1.1184",
+  "apk": "oagent-1184.apk.enc",
+  "sha256": "dc7c6e887f3152e0fbe585c7dea31a763641de1526e9a3e2cd7903e0aff231c2",
+  "size": 1282954,
+  "notes": "Phone: providers - API keys per provider (Anthropic, GitHub; migrated), error reports a plain switch, spend meter, model chooser"
 }
