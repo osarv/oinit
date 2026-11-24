@@ -1,8 +1,8 @@
 {
-  "versionCode": 1222,
-  "versionName": "0.1.1222",
-  "apk": "oagent-1222.apk.enc",
-  "sha256": "d38fe330ee84f2047e68ba07062689910b2b16742bcb2de557594f8733d07f04",
-  "size": 1373066,
-  "notes": "Phone: hand-off (1215, session storage, the open keyboard bug)"
+  "versionCode": 1223,
+  "versionName": "0.1.1223",
+  "apk": "oagent-1223.apk.enc",
+  "sha256": "9b56a3aa60f8e15178fc460dd63196c138da3f75e368d168d60ccce7675d3192",
+  "size": 1368970,
+  "notes": "Phone: release 0.1.1222 (the keyboard shown on the UI thread, what it did in the log; session storage; no Frame times row)"
 }
