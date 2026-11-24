@@ -1,8 +1,8 @@
 {
-  "versionCode": 1238,
-  "versionName": "0.1.1238",
-  "apk": "oagent-1238.apk.enc",
-  "sha256": "4325465a660ea9a3e78552f3dd3b8680fa631aec2853b84d239dc354be18a840",
-  "size": 1385354,
-  "notes": "Phone: queued actions survive TakeOuts (the keyboard opens, new terminals start a shell)"
+  "versionCode": 1242,
+  "versionName": "0.1.1242",
+  "apk": "oagent-1242.apk.enc",
+  "sha256": "f13d275e6f4229b28ef369c9a1695f9f3c5786e901659d505647a48500582442",
+  "size": 1389450,
+  "notes": "Phone: tabs titled Chat and Terminal; the update row says what it does"
 }
