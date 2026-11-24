@@ -1,8 +1,8 @@
 {
-  "versionCode": 1385,
-  "versionName": "0.1.1385",
-  "exe": "OAgent-1385.exe.enc",
-  "sha256": "9f836d6f475ea42dfaf6c5db91e0f10dd80bedc8312665c415c45ebcaaa3b8ad",
-  "size": 4451328,
-  "notes": "Phone: release 0.1.1385 (dictation: settle by agreement only at sentence ends, echo of recent text dropped; WER 9.0 -> 7.9 % on host); LEARNED.md: streaming Whisper dictation, sdot from olang"
+  "versionCode": 1406,
+  "versionName": "0.1.1406",
+  "exe": "OAgent-1406.exe.enc",
+  "sha256": "d53f56b226a08c8bfe4be00caf0e36b5155e7e9bfe9ae9107da306b0805039ae",
+  "size": 4541440,
+  "notes": "Phone: release 0.1.1406 (dictation: send never waits on missing last words (6 s, then the words shown), worker given up on and reported with its stage; a report line per dictation; INT8 encoder off)"
 }
