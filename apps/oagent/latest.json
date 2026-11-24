@@ -1,8 +1,8 @@
 {
-  "versionCode": 1392,
-  "versionName": "0.1.1392",
-  "apk": "oagent-1392.apk.enc",
-  "sha256": "3652be0b2090e26298152dd6945bb2338eb70d351557cdd82a9f75a7def5d44d",
+  "versionCode": 1394,
+  "versionName": "0.1.1394",
+  "apk": "oagent-1394.apk.enc",
+  "sha256": "cc6f5ac7b986a50e590e30f4eb80b51174163ed4da30d487ca24b691b2d8ee96",
   "size": 1680266,
-  "notes": "Core link debugging: the core logs every connection (peer, TLS handshake error with the peer's alert, refusals: banned, no code, expired, wrong code, sign-in timeout), core 0.1.1; the phone logs each dial step (resolve, TCP connect, certificate probe, pinned TLS handshake with Java's exception, pin check, pairing reply) with times, the row says 'Couldn't connect: STEP: why', the form the whole reason, a perf report per different failure; a code with fewer than 10 code characters is not sent"
+  "notes": "Anti-aliased rounded shapes (render.olang Shape: corners as coverage, outlines too) - the desktop's 'low resolution' at its own source; the mouse wheel scrolls what is under the pointer (the drawer, the overlay, any pane), a notch coasting as a fling, a touchpad's part-notches at once (ui.App.Wheel, tested; desktop WM_MOUSEWHEEL)"
 }
