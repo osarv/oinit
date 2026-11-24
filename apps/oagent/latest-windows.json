@@ -1,8 +1,8 @@
 {
-  "versionCode": 1376,
-  "versionName": "0.1.1376",
-  "exe": "OAgent-1376.exe.enc",
-  "sha256": "a79270de16252fdba65b0200900e351f9628b5e6bbbd8092848e7019526c30ad",
-  "size": 4431872,
-  "notes": "Phone: release 0.1.1376 (the phone as a client of the OAgent core: pairing, pinned TLS through Android's own stack driven from olang, reconnect/resume, the Chat mirrored offline)"
+  "versionCode": 1385,
+  "versionName": "0.1.1385",
+  "exe": "OAgent-1385.exe.enc",
+  "sha256": "661a44e3aba8d01cc48cf9d3fa40debb8bc081d88dd5b0ca50ef8d1d288173df",
+  "size": 4446208,
+  "notes": "Phone: release 0.1.1385 (dictation: settle by agreement only at sentence ends, echo of recent text dropped; WER 9.0 -> 7.9 % on host); LEARNED.md: streaming Whisper dictation, sdot from olang"
 }
