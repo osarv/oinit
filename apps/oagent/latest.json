@@ -1,8 +1,8 @@
 {
-  "versionCode": 1192,
-  "versionName": "0.1.1192",
-  "apk": "oagent-1192.apk.enc",
-  "sha256": "08a388cfaedba8bce9aa7ead62ece8ee38095487ca26468a9e03dca3f072a045",
-  "size": 1282954,
-  "notes": "Phone: New chat and New terminal side by side in the tab bar and at the top of the drawer, in place of the Terminal view toggle; each tab keeps its kind, shown by its icon"
+  "versionCode": 1201,
+  "versionName": "0.1.1201",
+  "apk": "oagent-1201.apk.enc",
+  "sha256": "1b29374e253d82307a8df94dd7f154e94205d9ad8c66656abc1ee5bfb47ad918",
+  "size": 1295242,
+  "notes": "Phone: a tab's × right after its name, small, with a 40 dp target"
 }
