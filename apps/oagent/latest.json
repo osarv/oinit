@@ -1,8 +1,8 @@
 {
-  "versionCode": 1178,
-  "versionName": "0.1.1178",
-  "apk": "oagent-1178.apk.enc",
-  "sha256": "47cef56ac5e5e2bd6dcfd0c0e2b669833c838e62fddd2f535893ac0b8ebeeaa3",
+  "versionCode": 1182,
+  "versionName": "0.1.1182",
+  "apk": "oagent-1182.apk.enc",
+  "sha256": "cbebf5a737a626726f267cc3e265baa8926a45cb3be815d62fce585ae494ed7c",
   "size": 1237898,
-  "notes": "Phone: the settings coast after a fling (the chat's friction), stop at the ends; a touch stops them"
+  "notes": "Phone: an animation that ends on a frame's tick still gets that frame drawn (a reply's last glyphs stayed half faded until a touch)"
 }
