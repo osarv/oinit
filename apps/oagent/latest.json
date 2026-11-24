@@ -1,8 +1,8 @@
 {
-  "versionCode": 1272,
-  "versionName": "0.1.1272",
-  "apk": "oagent-1272.apk.enc",
-  "sha256": "b6408f84286cffed42f3c5580c0faa5d4000e580f8b07dcf7c80c12b684d4889",
-  "size": 1418122,
-  "notes": "Phone: the top bar's spacing even - the menu icon's gap on both sides, and the same gap between the toggles"
+  "versionCode": 1275,
+  "versionName": "0.1.1275",
+  "apk": "oagent-1275.apk.enc",
+  "sha256": "4b7b4116ea0d1771828c16a1425900aa474bc8e94ecc9e9a77e3c1033623930e",
+  "size": 1426314,
+  "notes": "Phone: the agent overlay - a tap on an agent (tree or result card) opens it full screen: breadcrumb (Back/swipe up a level), live transcript with summarized thinking folded under each step (the Chat too), child rows, Stop for its subtree (the Chat's Stop stops all), the composer steering that agent (its parent told); sub-agent transcripts in their own files; History removed; View.Relay fixed (View.Keeps)"
 }
