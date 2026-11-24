@@ -1,8 +1,8 @@
 {
-  "versionCode": 1227,
-  "versionName": "0.1.1227",
-  "apk": "oagent-1227.apk.enc",
-  "sha256": "0c215fb7a814fb9c18b36c2672dcffcfb9ee6876f6d74bd6e7a0937c6e7cad42",
-  "size": 1373066,
-  "notes": "e77: r3 (v5, 199 TMACs) - grown model stalls after surgery; r4 diagnoses"
+  "versionCode": 1235,
+  "versionName": "0.1.1235",
+  "apk": "oagent-1235.apk.enc",
+  "sha256": "b8f21351f8e98b202a87b7255e156b2ba58c9fcd73b63f148a8bddfe5be30e68",
+  "size": 1385354,
+  "notes": "e75: TTS positives pack; w4 (TTS-only wake word) running"
 }
