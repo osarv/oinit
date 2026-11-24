@@ -1,8 +1,8 @@
 {
-  "versionCode": 1235,
-  "versionName": "0.1.1235",
-  "apk": "oagent-1235.apk.enc",
-  "sha256": "b8f21351f8e98b202a87b7255e156b2ba58c9fcd73b63f148a8bddfe5be30e68",
+  "versionCode": 1238,
+  "versionName": "0.1.1238",
+  "apk": "oagent-1238.apk.enc",
+  "sha256": "4325465a660ea9a3e78552f3dd3b8680fa631aec2853b84d239dc354be18a840",
   "size": 1385354,
-  "notes": "e75: TTS positives pack; w4 (TTS-only wake word) running"
+  "notes": "Phone: queued actions survive TakeOuts (the keyboard opens, new terminals start a shell)"
 }
