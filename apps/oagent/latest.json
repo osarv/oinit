@@ -1,8 +1,8 @@
 {
-  "versionCode": 1394,
-  "versionName": "0.1.1394",
-  "apk": "oagent-1394.apk.enc",
-  "sha256": "cc6f5ac7b986a50e590e30f4eb80b51174163ed4da30d487ca24b691b2d8ee96",
-  "size": 1680266,
-  "notes": "Anti-aliased rounded shapes (render.olang Shape: corners as coverage, outlines too) - the desktop's 'low resolution' at its own source; the mouse wheel scrolls what is under the pointer (the drawer, the overlay, any pane), a notch coasting as a fling, a touchpad's part-notches at once (ui.App.Wheel, tested; desktop WM_MOUSEWHEEL)"
+  "versionCode": 1396,
+  "versionName": "0.1.1396",
+  "apk": "oagent-1396.apk.enc",
+  "sha256": "3182a04f3c41d9f51ca1e2f87b08a766971b7fb15acc808a84c2c71b63df60a8",
+  "size": 1684362,
+  "notes": "Keys inherited from the OAgent core: the core sends every provider's key to a signed-in device in a frame of its own (at sign-in and within a second of a change: oagent-core key, a device's key/unkey), never in the ring or a log; devices seal their copy (Keystore, DPAPI) marked 'from OAgent core' and use it offline; a revoked device deletes its copies and pairing at next contact; App.Command checks the provider's range; core 0.1.2"
 }
