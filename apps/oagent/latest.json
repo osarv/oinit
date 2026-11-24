@@ -1,8 +1,8 @@
 {
-  "versionCode": 1078,
-  "versionName": "0.1.1078",
-  "apk": "oagent-1078.apk.enc",
-  "sha256": "843a8a5c5094167290936d325722bb4584b084f28fb268fb638985a1c3768fa5",
+  "versionCode": 1093,
+  "versionName": "0.1.1093",
+  "apk": "oagent-1093.apk.enc",
+  "sha256": "5058c39f86d01e48ead34bdbfce01c4fe89cec790f836988b9ba5d620b068441",
   "size": 1164096,
-  "notes": "Phone: our dictation model off until its own release (Android's recognizer meanwhile)"
+  "notes": "Phone: a window redraw's frame timed too (the Android build of the frame times)"
 }
