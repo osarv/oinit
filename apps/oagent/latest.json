@@ -1,8 +1,8 @@
 {
-  "versionCode": 1316,
-  "versionName": "0.1.1316",
-  "apk": "oagent-1316.apk.enc",
-  "sha256": "5add7f31886b322740c5ebc170ff8f97b95c62990025935ee5ee019f2496de91",
-  "size": 1483658,
-  "notes": "Phone: multi-line terminal pastes previewed before they are written; links show their host with not-HTTPS/punycode/lookalike/user-info flags and open only on a tap (http/https only); audit-log viewer in the drawer (Advanced)"
+  "versionCode": 1321,
+  "versionName": "0.1.1321",
+  "apk": "oagent-1321.apk.enc",
+  "sha256": "c3123210ed1d4dab43dbb8fedbff1413fce0c31b23c7ae4f9c1b0316a90235fd",
+  "size": 1475466,
+  "notes": "Phone: dictation transcribes instead of predicting: no prompt (neither the chat nor its own earlier text), only VAD speech decoded, segments echoing the message dropped"
 }
