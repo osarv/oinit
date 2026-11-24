@@ -1,8 +1,8 @@
 {
-  "versionCode": 1355,
-  "versionName": "0.1.1355",
-  "apk": "oagent-1355.apk.enc",
-  "sha256": "b0e5be3cde56dde415470e6445eeaa97ddc2a7028960b50b75a7ee589a5ecf50",
-  "size": 1528714,
-  "notes": "Desktop: frameless window - no system title bar, icon or white frame; the app's top bar is the title bar (drag, snap, double-click maximize), minimize/maximize/close drawn in the app's style (shared seam App.WindowControls, off on the phone) and hit-tested as Windows' own (snap layouts), dark mode, rounded corners, border in the app's background, DWM shadow. Updater: a tapped check shows Checking… at least 0.7 s and says its result in the chat, every result and failure logged; -updatecheck exercised 1344 -> 1350 under Wine (check, download, seal, SHA-256, version, swap)"
+  "versionCode": 1364,
+  "versionName": "0.1.1364",
+  "apk": "oagent-1364.apk.enc",
+  "sha256": "71d759488a509cf9d856a2714ed2aba1b2c6bba9647192b98dd224dcb45d901b",
+  "size": 1577866,
+  "notes": "Dictation speed: live passes settle by agreement (LocalAgreement-2: agreed segments settle, agreed tokens force-fed as the next pass's start), the stop reuses the last live pass when no speech came after it, worker threads = big cores, per-stage timings in a device perf report"
 }
