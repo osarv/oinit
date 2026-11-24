@@ -1,8 +1,8 @@
 {
-  "versionCode": 1223,
-  "versionName": "0.1.1223",
-  "apk": "oagent-1223.apk.enc",
-  "sha256": "9b56a3aa60f8e15178fc460dd63196c138da3f75e368d168d60ccce7675d3192",
-  "size": 1368970,
-  "notes": "Phone: release 0.1.1222 (the keyboard shown on the UI thread, what it did in the log; session storage; no Frame times row)"
+  "versionCode": 1225,
+  "versionName": "0.1.1225",
+  "apk": "oagent-1225.apk.enc",
+  "sha256": "5ecc35890f8e2c3102ae4374874039d4264ce7ce3665a307e27dbe5d183f5fe9",
+  "size": 1373066,
+  "notes": "e79: staged mqar (only attention recalls past the window; gg 0.25), LM at L 2048 (wwww 4.163, wgwg 4.174, wwwa 4.266 at equal TMACs), wave 3 launched"
 }
