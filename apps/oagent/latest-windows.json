@@ -1,8 +1,8 @@
 {
-  "versionCode": 1330,
-  "versionName": "0.1.1330",
-  "exe": "OAgent-1330.exe.enc",
-  "sha256": "dd3033d804c1ceb3cc7b26e1db70a8b773d6587046413fa9258b741abb80adc2",
-  "size": 3427840,
-  "notes": "Phone: release 0.1.1330 (UI release: splash, drawer and Version row, 6 h update checks, memory overlay, waveform, composer selection, OAgent name, empty-chat logo, model list restored, sub-agent permission clamp)"
+  "versionCode": 1344,
+  "versionName": "0.1.1344",
+  "exe": "OAgent-1344.exe.enc",
+  "sha256": "5ac442c6f2b028153dfa6763ee1ef60a8fdb186b6bf39864f813950919b1f1a3",
+  "size": 3460608,
+  "notes": "Phone: release 0.1.1344"
 }
