@@ -1,8 +1,8 @@
 {
-  "versionCode": 1215,
-  "versionName": "0.1.1215",
-  "apk": "oagent-1215.apk.enc",
-  "sha256": "d77ba255983a0391c228c907334f28f869037185a1afd7a1885acee370c9a0c0",
-  "size": 1319818,
-  "notes": "Phone: a tap in any text field puts the caret there, a sideways drag from the text moves it (chatview.View.Src/ByteAt, chat.CaretTo)"
+  "versionCode": 1222,
+  "versionName": "0.1.1222",
+  "apk": "oagent-1222.apk.enc",
+  "sha256": "d38fe330ee84f2047e68ba07062689910b2b16742bcb2de557594f8733d07f04",
+  "size": 1373066,
+  "notes": "Phone: hand-off (1215, session storage, the open keyboard bug)"
 }
