@@ -1,8 +1,8 @@
 {
-  "versionCode": 1265,
-  "versionName": "0.1.1265",
-  "apk": "oagent-1265.apk.enc",
-  "sha256": "d899682ac4013cd350ee29ddbdf596b95e89d486a7caf4fe3119919ce1a29230",
-  "size": 1385354,
-  "notes": "Phone: Ctrl+L clears in vi mode too; no Vibrate on bell; Settings headers in the rows' face; Spend: Max spend, then a group per provider with a key (Set current balance first, Open billing last); Max steps and Max spend with / message values"
+  "versionCode": 1267,
+  "versionName": "0.1.1267",
+  "apk": "oagent-1267.apk.enc",
+  "sha256": "b9ed4e178b4c2bbbb2ab03e686ffcc3a90f1716867680ed71e9af8deabdbe076",
+  "size": 1393546,
+  "notes": "Phone: memory - rules.md, plan.md, decisions.md and notes.md in FilesDir/memory, in the Chat's system prompt at the start and after each summary; the agent edits them without a tap; the drawer's Memory row lists them, a tap shows one read-only"
 }
