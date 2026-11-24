@@ -1,8 +1,8 @@
 {
-  "versionCode": 1321,
-  "versionName": "0.1.1321",
-  "apk": "oagent-1321.apk.enc",
-  "sha256": "c3123210ed1d4dab43dbb8fedbff1413fce0c31b23c7ae4f9c1b0316a90235fd",
+  "versionCode": 1325,
+  "versionName": "0.1.1325",
+  "apk": "oagent-1325.apk.enc",
+  "sha256": "a91778e8107bbc8785158ea1a22491ca71bc38341b3df45f60e28fe87700a389",
   "size": 1475466,
-  "notes": "Phone: dictation transcribes instead of predicting: no prompt (neither the chat nor its own earlier text), only VAD speech decoded, segments echoing the message dropped"
+  "notes": "Phone: dictation ends an utterance on 0.8 s of VAD silence and settles it at once (to its last sentence end); partials skipped on silence; stop goes straight to the final pass; dictatebench plays clips in real time and reports utterance-end and stop-to-text latency"
 }
