@@ -1,8 +1,8 @@
 {
-  "versionCode": 1267,
-  "versionName": "0.1.1267",
-  "apk": "oagent-1267.apk.enc",
-  "sha256": "b9ed4e178b4c2bbbb2ab03e686ffcc3a90f1716867680ed71e9af8deabdbe076",
-  "size": 1393546,
-  "notes": "Phone: memory - rules.md, plan.md, decisions.md and notes.md in FilesDir/memory, in the Chat's system prompt at the start and after each summary; the agent edits them without a tap; the drawer's Memory row lists them, a tap shows one read-only"
+  "versionCode": 1272,
+  "versionName": "0.1.1272",
+  "apk": "oagent-1272.apk.enc",
+  "sha256": "b6408f84286cffed42f3c5580c0faa5d4000e580f8b07dcf7c80c12b684d4889",
+  "size": 1418122,
+  "notes": "Phone: the top bar's spacing even - the menu icon's gap on both sides, and the same gap between the toggles"
 }
