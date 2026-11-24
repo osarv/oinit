@@ -1,8 +1,8 @@
 {
-  "versionCode": 1120,
-  "versionName": "0.1.1120",
-  "apk": "oagent-1120.apk.enc",
-  "sha256": "a85ccdb99a676d7310979a6c9c7cdcd17385b438142068ce2946d66539ba5169",
-  "size": 1213248,
-  "notes": "Phone: the app's data path as getcwd names it (/data/data), so HOME is the shell's own cwd and the prompt and title show ~; a terminal dictates again from the extra keys' MIC (~ takes the < place)"
+  "versionCode": 1126,
+  "versionName": "0.1.1126",
+  "apk": "oagent-1126.apk.enc",
+  "sha256": "1692f4c96b48f6206396d95b72e52e13668fdeee12841f1fffd6862f1d037bba",
+  "size": 1225536,
+  "notes": "Phone: the extra keys in rows of ten: < > and ~ back where they were, the terminal's MIC an added slot at the first row's end"
 }
