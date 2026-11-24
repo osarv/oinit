@@ -1,8 +1,8 @@
 {
-  "versionCode": 1211,
-  "versionName": "0.1.1211",
-  "apk": "oagent-1211.apk.enc",
-  "sha256": "be27487cbbb7a9c4905e59919a33fd7d590ac304dfc7505125c631c1f89c4e49",
-  "size": 1295242,
-  "notes": "Phone: the recording bar's ■ on the same dark grey as ×"
+  "versionCode": 1215,
+  "versionName": "0.1.1215",
+  "apk": "oagent-1215.apk.enc",
+  "sha256": "d77ba255983a0391c228c907334f28f869037185a1afd7a1885acee370c9a0c0",
+  "size": 1319818,
+  "notes": "Phone: a tap in any text field puts the caret there, a sideways drag from the text moves it (chatview.View.Src/ByteAt, chat.CaretTo)"
 }
