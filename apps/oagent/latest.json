@@ -1,8 +1,8 @@
 {
-  "versionCode": 1385,
-  "versionName": "0.1.1385",
-  "apk": "oagent-1385.apk.enc",
-  "sha256": "4563c14543638d34da79eb975db60785de736fc53d50b31e17ee273f889c69f3",
-  "size": 1667978,
-  "notes": "hear: the agreement test's mid-sentence case"
+  "versionCode": 1392,
+  "versionName": "0.1.1392",
+  "apk": "oagent-1392.apk.enc",
+  "sha256": "3652be0b2090e26298152dd6945bb2338eb70d351557cdd82a9f75a7def5d44d",
+  "size": 1680266,
+  "notes": "Core link debugging: the core logs every connection (peer, TLS handshake error with the peer's alert, refusals: banned, no code, expired, wrong code, sign-in timeout), core 0.1.1; the phone logs each dial step (resolve, TCP connect, certificate probe, pinned TLS handshake with Java's exception, pin check, pairing reply) with times, the row says 'Couldn't connect: STEP: why', the form the whole reason, a perf report per different failure; a code with fewer than 10 code characters is not sent"
 }
