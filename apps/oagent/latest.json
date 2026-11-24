@@ -1,8 +1,8 @@
 {
-  "versionCode": 1209,
-  "versionName": "0.1.1209",
-  "apk": "oagent-1209.apk.enc",
-  "sha256": "9674aff3704138c530b675a296a6f8085e1c9609f8fe47be0a180e057467463b",
+  "versionCode": 1211,
+  "versionName": "0.1.1211",
+  "apk": "oagent-1211.apk.enc",
+  "sha256": "be27487cbbb7a9c4905e59919a33fd7d590ac304dfc7505125c631c1f89c4e49",
   "size": 1295242,
-  "notes": "Phone: recording bar ~12% lower, its × a dark grey circle"
+  "notes": "Phone: the recording bar's ■ on the same dark grey as ×"
 }
