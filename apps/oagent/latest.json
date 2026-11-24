@@ -1,8 +1,8 @@
 {
-  "versionCode": 1250,
-  "versionName": "0.1.1250",
-  "apk": "oagent-1250.apk.enc",
-  "sha256": "fb98ee2fc3477c50e6e757eb1dffc4d660cc7400d3564000650815f0763e7b8b",
+  "versionCode": 1254,
+  "versionName": "0.1.1254",
+  "apk": "oagent-1254.apk.enc",
+  "sha256": "32756fa1609a08e87361fa8c2517636496ed47bbdba0ddf54f9c52f712e0248d",
   "size": 1385354,
-  "notes": "Phone: dictation on Whisper base, prompted with a vocabulary of the user's names"
+  "notes": "Phone: dictation prompted with the conversation's text only (the fixed vocabulary removed: a general model)"
 }
