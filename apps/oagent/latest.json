@@ -1,8 +1,8 @@
 {
-  "versionCode": 1109,
-  "versionName": "0.1.1109",
-  "apk": "oagent-1109.apk.enc",
-  "sha256": "ea6749d8681d7903fde324c5a33cea961e8ffdb3ceb96eea11f7ae4d474a2ece",
-  "size": 1209152,
-  "notes": "Phone: our own dictation on (Whisper tiny, the conversation as its prompt) in the recording bar"
+  "versionCode": 1117,
+  "versionName": "0.1.1117",
+  "apk": "oagent-1117.apk.enc",
+  "sha256": "b76750b0e015c3825ab574a3ea71b42da3fc2923809ffe018a9cc1aac8633bbb",
+  "size": 1213248,
+  "notes": "Phone: the settings drawer slides as one built piece (moved by a shader offset, no rebuild or upload a frame), on the vsync's time, 220 ms, its first frame one step; the next vsync asked for before the swap; the first 3 slides' frames in a perf report; dictate again: the mic stays beside send and the words go in at the caret"
 }
