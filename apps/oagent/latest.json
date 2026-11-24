@@ -1,8 +1,8 @@
 {
-  "versionCode": 1301,
-  "versionName": "0.1.1301",
-  "apk": "oagent-1301.apk.enc",
-  "sha256": "43a468ea20e6958cf369dc3f5ec2ad6c1d34a5857fb2e67604d5becabe928ddd",
-  "size": 1434506,
-  "notes": "e79: seed 2 confirms (wm 0.9998, memory-first order 2/2); e79 closed with reproduce commands"
+  "versionCode": 1304,
+  "versionName": "0.1.1304",
+  "apk": "oagent-1304.apk.enc",
+  "sha256": "616b4a6456060e06ce1aa4cc0abacf14cdffbb55bc331ec484b1d00eaccdfb61",
+  "size": 1446794,
+  "notes": "Phone: one request policy (fetch.olang: retry-after, x-should-retry, 408/409/429/5xx/529, broken or overloaded streams restarted whole, backoff with jitter, notes while waiting); fault-injection suite run before each release; one JSON encoder with a property test"
 }
