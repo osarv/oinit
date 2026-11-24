@@ -1,8 +1,8 @@
 {
-  "versionCode": 1173,
-  "versionName": "0.1.1173",
-  "apk": "oagent-1173.apk.enc",
-  "sha256": "98cf5d91c1975a13a2c4dc0f0a03fbfa40a374ce3591662fae43444bb485056f",
+  "versionCode": 1175,
+  "versionName": "0.1.1175",
+  "apk": "oagent-1175.apk.enc",
+  "sha256": "5c02384b04dc8de9e5399d103323e946b0f1f3f2cb48eb06ce71226ce49cd92a",
   "size": 1237898,
-  "notes": "Phone: the splash stays until the app answers (after the first frame and the warm-up); cold start to ready in the perf report; a lighter start-up bench"
+  "notes": "Phone: a tap on send reads the button once (sending lays the band out again: it could then read as the mic); test through the keyboard and a real tap"
 }
