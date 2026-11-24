@@ -1,8 +1,8 @@
 {
-  "versionCode": 1414,
-  "versionName": "0.1.1414",
-  "exe": "OAgent-1414.exe.enc",
-  "sha256": "9c218ae2d2514f7e12480c1d8908b3173e0d19227a587e66f4717f292d44abd0",
-  "size": 4555264,
-  "notes": "Phone: release 0.1.1414 (built by full LTO again: the speech model's kernels vectorized - dictation 80x faster than 1364-1406)"
+  "versionCode": 1426,
+  "versionName": "0.1.1426",
+  "exe": "OAgent-1426.exe.enc",
+  "sha256": "62679d396ed982602a7759f5d89073a15790e59c9cb20e76069f1c78b3475839",
+  "size": 3801088,
+  "notes": "Phone: release 0.1.1426 (full LTO; updates without the prompt where Android allows, the next start reports whether it asked)"
 }

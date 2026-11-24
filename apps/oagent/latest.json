@@ -1,8 +1,8 @@
 {
-  "versionCode": 1419,
-  "versionName": "0.1.1419",
-  "apk": "oagent-1419.apk.enc",
-  "sha256": "b7431444643c7ab2deb65a6472c82272ff0b4edf752c4b1bdbac079ad73d44a8",
-  "size": 1672074,
-  "notes": "Desktop 0.1.1409: text at its own pixels (no supersampling by default); Ctrl+Tab switches the OAgent and Terminal views; the divider between them drags (each keeps 96 dp, the split kept, the pty resized at the end, the up-down cursor on Windows); the Terminal's shell restarts at once when it ends (three ends within 1 s stop it; ConPTY handles closed); editing keys in the shared App.Key so a phone's keyboard has them; Android: the wheel scrolls what is under the pointer, a right click opens the selection's menu; tests, Wine check restarts the shell twice"
+  "versionCode": 1426,
+  "versionName": "0.1.1426",
+  "apk": "oagent-1426.apk.enc",
+  "sha256": "67124a8ed824f43e7cf4e634d9e9969167103041206b5070fee36dabe7f7133f",
+  "size": 1676170,
+  "notes": "Core 0.1.5 builds again on main (App.SessionExited's new signature: the Terminal's shell restarts as in the apps); Pi binary"
 }
