@@ -1,8 +1,8 @@
 {
-  "versionCode": 1242,
-  "versionName": "0.1.1242",
-  "apk": "oagent-1242.apk.enc",
-  "sha256": "f13d275e6f4229b28ef369c9a1695f9f3c5786e901659d505647a48500582442",
-  "size": 1389450,
-  "notes": "Phone: tabs titled Chat and Terminal; the update row says what it does"
+  "versionCode": 1250,
+  "versionName": "0.1.1250",
+  "apk": "oagent-1250.apk.enc",
+  "sha256": "fb98ee2fc3477c50e6e757eb1dffc4d660cc7400d3564000650815f0763e7b8b",
+  "size": 1385354,
+  "notes": "Phone: dictation on Whisper base, prompted with a vocabulary of the user's names"
 }
