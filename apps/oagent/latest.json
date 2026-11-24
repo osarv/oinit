@@ -1,8 +1,8 @@
 {
-  "versionCode": 1409,
-  "versionName": "0.1.1409",
-  "apk": "oagent-1409.apk.enc",
-  "sha256": "925f25e67cfdd55a9a3a8db594bd98d4edcc3dd3017b3be58f5392212b3894a9",
-  "size": 1704842,
-  "notes": "Core 0.1.4: the Orchestrator bridge (HTTPS JSON API on 443 -> 8443 with a Let's Encrypt certificate by DNS-01 through Cloudflare: status, agents, transcript, decisions, audit, logs, message, diagnostics; orchestrator role tokens, audited, refused on the apps' port; cftoken sealed, acme + daily renewal timer, firewall 443)"
+  "versionCode": 1414,
+  "versionName": "0.1.1414",
+  "apk": "oagent-1414.apk.enc",
+  "sha256": "dae97e6730efd11e163519b466802ff967365db8003f9a74c9d4768fdc87c325",
+  "size": 1667978,
+  "notes": "Desktop 0.1.1409 (with phone release 0.1.1409: the OAgent core's live page, key rows with source and last request; Wine check and release check pass); core 0.1.4 Pi binary rebuilt on main"
 }
