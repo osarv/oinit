@@ -1,8 +1,8 @@
 {
-  "versionCode": 1254,
-  "versionName": "0.1.1254",
-  "apk": "oagent-1254.apk.enc",
-  "sha256": "32756fa1609a08e87361fa8c2517636496ed47bbdba0ddf54f9c52f712e0248d",
+  "versionCode": 1260,
+  "versionName": "0.1.1260",
+  "apk": "oagent-1260.apk.enc",
+  "sha256": "d05f46ca1f6b5fe46ef5c7f158249cc621262aacdbd591bfa9c3cb7f5dc9c3d1",
   "size": 1385354,
-  "notes": "Phone: dictation prompted with the conversation's text only (the fixed vocabulary removed: a general model)"
+  "notes": "Phone: the Chat and Terminal toggles beside the menu button at the top left; none in the drawer"
 }
