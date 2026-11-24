@@ -1,8 +1,8 @@
 {
-  "versionCode": 1406,
-  "versionName": "0.1.1406",
-  "exe": "OAgent-1406.exe.enc",
-  "sha256": "d53f56b226a08c8bfe4be00caf0e36b5155e7e9bfe9ae9107da306b0805039ae",
-  "size": 4541440,
-  "notes": "Phone: release 0.1.1406 (dictation: send never waits on missing last words (6 s, then the words shown), worker given up on and reported with its stage; a report line per dictation; INT8 encoder off)"
+  "versionCode": 1409,
+  "versionName": "0.1.1409",
+  "exe": "OAgent-1409.exe.enc",
+  "sha256": "f06c1953fd6db61711ceacff7166f539e06f54b12311f592681bd0145190c319",
+  "size": 4474880,
+  "notes": "Phone: release 0.1.1409 (the OAgent core's live page, key rows with source and last request); core HANDOFF: A and B done"
 }
