@@ -1,8 +1,8 @@
 {
-  "versionCode": 1206,
-  "versionName": "0.1.1206",
-  "apk": "oagent-1206.apk.enc",
-  "sha256": "1bd14d86f6c3ceb91a4868163710d7b2db4a6e23af7541c3551685f4b9aa0b0d",
+  "versionCode": 1209,
+  "versionName": "0.1.1209",
+  "apk": "oagent-1209.apk.enc",
+  "sha256": "9674aff3704138c530b675a296a6f8085e1c9609f8fe47be0a180e057467463b",
   "size": 1295242,
-  "notes": "Phone: only agent mode (every chat has the tools, Permissions alone sets what runs; tool calls wait with Allow/Deny)"
+  "notes": "Phone: recording bar ~12% lower, its × a dark grey circle"
 }
