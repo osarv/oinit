@@ -1,8 +1,8 @@
 {
-  "versionCode": 1379,
-  "versionName": "0.1.1379",
-  "apk": "oagent-1379.apk.enc",
-  "sha256": "cad053263742ad7de2aaee7448337c9f3771efb97a10e0d4c49bcb4b02024853",
-  "size": 1663882,
-  "notes": "Phone: the core's link in the background - no pings; closed unless work the user started runs on the core (kept without pings, closed when it ends); onResume reconnects and resumes (the battery rule)"
+  "versionCode": 1380,
+  "versionName": "0.1.1380",
+  "apk": "oagent-1380.apk.enc",
+  "sha256": "4ba41e9f81176958751bdbfc132a52cb4f1da2c376fc4d8bf34d5190da1b7ec7",
+  "size": 1667978,
+  "notes": "Dictation speed: INT8 encoder (oann f7c3824, sdot), liboagent.so built for armv8.2-a+dotprod (cortex-a76); an utterance end settles from the last live pass when it heard it all"
 }
