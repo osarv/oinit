@@ -1,8 +1,8 @@
 {
-  "versionCode": 1164,
-  "versionName": "0.1.1164",
-  "apk": "oagent-1164.apk.enc",
-  "sha256": "6fa29b8140d24f4b9f492118f5f32707299d2250372000f753b2240a1a394049",
+  "versionCode": 1166,
+  "versionName": "0.1.1166",
+  "apk": "oagent-1166.apk.enc",
+  "sha256": "a93abdec8148bbbaf116108f0bf50edb9c18f589dfa4b2e34d975b3f05900c8b",
   "size": 1237898,
-  "notes": "Phone: the terminal cursor moved by hand (a drag from it, a swipe along the extra keys); Vim keys setting (vi editing for new terminal shells)"
+  "notes": "Phone: settings open at the top each time"
 }
