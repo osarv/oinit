@@ -1,8 +1,8 @@
 {
-  "versionCode": 1188,
-  "versionName": "0.1.1188",
-  "apk": "oagent-1188.apk.enc",
-  "sha256": "234df6c90db7b5f8ab54676cccfdebb2838f677aa819ea414ad74c649f91bf7c",
+  "versionCode": 1192,
+  "versionName": "0.1.1192",
+  "apk": "oagent-1192.apk.enc",
+  "sha256": "08a388cfaedba8bce9aa7ead62ece8ee38095487ca26468a9e03dca3f072a045",
   "size": 1282954,
-  "notes": "Phone: dictation's stop in the recording red (a token for the recording state only), a fifth larger, the halo in the same red"
+  "notes": "Phone: New chat and New terminal side by side in the tab bar and at the top of the drawer, in place of the Terminal view toggle; each tab keeps its kind, shown by its icon"
 }
