@@ -1,8 +1,8 @@
 {
-  "versionCode": 1126,
-  "versionName": "0.1.1126",
-  "apk": "oagent-1126.apk.enc",
-  "sha256": "1692f4c96b48f6206396d95b72e52e13668fdeee12841f1fffd6862f1d037bba",
-  "size": 1225536,
-  "notes": "Phone: the extra keys in rows of ten: < > and ~ back where they were, the terminal's MIC an added slot at the first row's end"
+  "versionCode": 1132,
+  "versionName": "0.1.1132",
+  "apk": "oagent-1132.apk.enc",
+  "sha256": "b3eac7bc8a092bf65f20c92408b4798fb51906fbd59f4a10e345832212b50004",
+  "size": 1225610,
+  "notes": "Phone: the splash's mark 1.15x (its own drawable, the launcher icon unchanged): the largest the round splash mask shows whole"
 }
