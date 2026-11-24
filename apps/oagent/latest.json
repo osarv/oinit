@@ -1,8 +1,8 @@
 {
-  "versionCode": 1105,
-  "versionName": "0.1.1105",
-  "apk": "oagent-1105.apk.enc",
-  "sha256": "b5bbd20d64f4c7e195467c5c1a548ba7a6dc09199b68148e7af45c3be0a19633",
-  "size": 1180480,
-  "notes": "Phone: a device perf report for slow frames; the drawer slides by time, its text warmed ahead, dirty-rect atlas uploads, a vertex buffer per batch"
+  "versionCode": 1109,
+  "versionName": "0.1.1109",
+  "apk": "oagent-1109.apk.enc",
+  "sha256": "ea6749d8681d7903fde324c5a33cea961e8ffdb3ceb96eea11f7ae4d474a2ece",
+  "size": 1209152,
+  "notes": "Phone: our own dictation on (Whisper tiny, the conversation as its prompt) in the recording bar"
 }
