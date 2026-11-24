@@ -1,8 +1,8 @@
 {
-  "versionCode": 1201,
-  "versionName": "0.1.1201",
-  "apk": "oagent-1201.apk.enc",
-  "sha256": "1b29374e253d82307a8df94dd7f154e94205d9ad8c66656abc1ee5bfb47ad918",
+  "versionCode": 1206,
+  "versionName": "0.1.1206",
+  "apk": "oagent-1206.apk.enc",
+  "sha256": "1bd14d86f6c3ceb91a4868163710d7b2db4a6e23af7541c3551685f4b9aa0b0d",
   "size": 1295242,
-  "notes": "Phone: a tab's × right after its name, small, with a 40 dp target"
+  "notes": "Phone: only agent mode (every chat has the tools, Permissions alone sets what runs; tool calls wait with Allow/Deny)"
 }
