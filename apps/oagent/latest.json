@@ -1,8 +1,8 @@
 {
-  "versionCode": 1225,
-  "versionName": "0.1.1225",
-  "apk": "oagent-1225.apk.enc",
-  "sha256": "5ecc35890f8e2c3102ae4374874039d4264ce7ce3665a307e27dbe5d183f5fe9",
+  "versionCode": 1227,
+  "versionName": "0.1.1227",
+  "apk": "oagent-1227.apk.enc",
+  "sha256": "0c215fb7a814fb9c18b36c2672dcffcfb9ee6876f6d74bd6e7a0937c6e7cad42",
   "size": 1373066,
-  "notes": "e79: staged mqar (only attention recalls past the window; gg 0.25), LM at L 2048 (wwww 4.163, wgwg 4.174, wwwa 4.266 at equal TMACs), wave 3 launched"
+  "notes": "e77: r3 (v5, 199 TMACs) - grown model stalls after surgery; r4 diagnoses"
 }
