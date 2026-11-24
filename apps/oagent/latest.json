@@ -1,8 +1,8 @@
 {
-  "versionCode": 1166,
-  "versionName": "0.1.1166",
-  "apk": "oagent-1166.apk.enc",
-  "sha256": "a93abdec8148bbbaf116108f0bf50edb9c18f589dfa4b2e34d975b3f05900c8b",
+  "versionCode": 1173,
+  "versionName": "0.1.1173",
+  "apk": "oagent-1173.apk.enc",
+  "sha256": "98cf5d91c1975a13a2c4dc0f0a03fbfa40a374ce3591662fae43444bb485056f",
   "size": 1237898,
-  "notes": "Phone: settings open at the top each time"
+  "notes": "Phone: the splash stays until the app answers (after the first frame and the warm-up); cold start to ready in the perf report; a lighter start-up bench"
 }
