@@ -1,8 +1,8 @@
 {
-  "versionCode": 1260,
-  "versionName": "0.1.1260",
-  "apk": "oagent-1260.apk.enc",
-  "sha256": "d05f46ca1f6b5fe46ef5c7f158249cc621262aacdbd591bfa9c3cb7f5dc9c3d1",
+  "versionCode": 1265,
+  "versionName": "0.1.1265",
+  "apk": "oagent-1265.apk.enc",
+  "sha256": "d899682ac4013cd350ee29ddbdf596b95e89d486a7caf4fe3119919ce1a29230",
   "size": 1385354,
-  "notes": "Phone: the Chat and Terminal toggles beside the menu button at the top left; none in the drawer"
+  "notes": "Phone: Ctrl+L clears in vi mode too; no Vibrate on bell; Settings headers in the rows' face; Spend: Max spend, then a group per provider with a key (Set current balance first, Open billing last); Max steps and Max spend with / message values"
 }
