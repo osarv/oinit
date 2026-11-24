@@ -1,8 +1,8 @@
 {
-  "versionCode": 1406,
-  "versionName": "0.1.1406",
-  "apk": "oagent-1406.apk.enc",
-  "sha256": "bc5c25055eda42a64192e3382b08ef7843375b16d5472255a8933db62b3d961f",
-  "size": 1688458,
-  "notes": "Dictation never holds up send: last words not in 6 s after the stop -> the words shown are taken (and sent), the speech worker given up on (Android's recognizer until restart) and reported with its stage; INT8 encoder off as a precaution (1401: no text, send stuck)"
+  "versionCode": 1409,
+  "versionName": "0.1.1409",
+  "apk": "oagent-1409.apk.enc",
+  "sha256": "925f25e67cfdd55a9a3a8db594bd98d4edcc3dd3017b3be58f5392212b3894a9",
+  "size": 1704842,
+  "notes": "Core 0.1.4: the Orchestrator bridge (HTTPS JSON API on 443 -> 8443 with a Let's Encrypt certificate by DNS-01 through Cloudflare: status, agents, transcript, decisions, audit, logs, message, diagnostics; orchestrator role tokens, audited, refused on the apps' port; cftoken sealed, acme + daily renewal timer, firewall 443)"
 }
