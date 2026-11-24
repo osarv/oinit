@@ -1,8 +1,8 @@
 {
-  "versionCode": 1307,
-  "versionName": "0.1.1307",
-  "apk": "oagent-1307.apk.enc",
-  "sha256": "6f5b853f87e86d77cfdf53e47d96f6a2fff92e78dd7ec240e541e734c900334c",
+  "versionCode": 1312,
+  "versionName": "0.1.1312",
+  "apk": "oagent-1312.apk.enc",
+  "sha256": "d8f78ecfca6a669cfb26b7e618d2668dfa147850bc235d3790b582cab94daba5",
   "size": 1463178,
-  "notes": "Phone: security guards (docs/security.md): tool output framed as untrusted data, secrets redacted, injection detector, taint gate (actions wait for a tap after web or network reads until the next message), rules.md only with a tap, pinned and hashed speech model, audit log"
+  "notes": "Phone: dictation decoded as Whisper's reference reads long sound (30 s windows with timestamps, text carried as prompt, temperature fallback on gzip ratio > 2.4 or logprob < -1, silence skipped, repeated segments dropped, token cap): no more loops"
 }
