@@ -1,8 +1,8 @@
 {
-  "versionCode": 1401,
-  "versionName": "0.1.1401",
-  "apk": "oagent-1401.apk.enc",
-  "sha256": "d33ad7e227ef91134a2f498706a063d273bae322650807ef703ce95d86365f56",
+  "versionCode": 1406,
+  "versionName": "0.1.1406",
+  "apk": "oagent-1406.apk.enc",
+  "sha256": "bc5c25055eda42a64192e3382b08ef7843375b16d5472255a8933db62b3d961f",
   "size": 1688458,
-  "notes": "Core link: why each connection closed (read/write exception, the core closed, no pong in 30 s, background pause, refused, revoked) in the device log with its length; the row says connected / reconnecting… / paused in the background (reconnects when you open the app), 'Couldn't connect' only from the third failed try; coming to the front reconnects at once with the wait back to 1 s; core 0.1.3 logs each session's length"
+  "notes": "Dictation never holds up send: last words not in 6 s after the stop -> the words shown are taken (and sent), the speech worker given up on (Android's recognizer until restart) and reported with its stage; INT8 encoder off as a precaution (1401: no text, send stuck)"
 }
