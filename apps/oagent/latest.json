@@ -1,8 +1,8 @@
 {
-  "versionCode": 1380,
-  "versionName": "0.1.1380",
-  "apk": "oagent-1380.apk.enc",
-  "sha256": "4ba41e9f81176958751bdbfc132a52cb4f1da2c376fc4d8bf34d5190da1b7ec7",
+  "versionCode": 1385,
+  "versionName": "0.1.1385",
+  "apk": "oagent-1385.apk.enc",
+  "sha256": "4563c14543638d34da79eb975db60785de736fc53d50b31e17ee273f889c69f3",
   "size": 1667978,
-  "notes": "Dictation speed: INT8 encoder (oann f7c3824, sdot), liboagent.so built for armv8.2-a+dotprod (cortex-a76); an utterance end settles from the last live pass when it heard it all"
+  "notes": "hear: the agreement test's mid-sentence case"
 }
