@@ -1,8 +1,8 @@
 {
-  "versionCode": 1175,
-  "versionName": "0.1.1175",
-  "apk": "oagent-1175.apk.enc",
-  "sha256": "5c02384b04dc8de9e5399d103323e946b0f1f3f2cb48eb06ce71226ce49cd92a",
+  "versionCode": 1178,
+  "versionName": "0.1.1178",
+  "apk": "oagent-1178.apk.enc",
+  "sha256": "47cef56ac5e5e2bd6dcfd0c0e2b669833c838e62fddd2f535893ac0b8ebeeaa3",
   "size": 1237898,
-  "notes": "Phone: a tap on send reads the button once (sending lays the band out again: it could then read as the mic); test through the keyboard and a real tap"
+  "notes": "Phone: the settings coast after a fling (the chat's friction), stop at the ends; a touch stops them"
 }
