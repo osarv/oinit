@@ -1,8 +1,8 @@
 {
-  "versionCode": 1376,
-  "versionName": "0.1.1376",
-  "apk": "oagent-1376.apk.enc",
-  "sha256": "c11c54dae37ce1da49de1bc32693b59f54b2ebec939b4fcef2d71ceb305e00be",
+  "versionCode": 1379,
+  "versionName": "0.1.1379",
+  "apk": "oagent-1379.apk.enc",
+  "sha256": "cad053263742ad7de2aaee7448337c9f3771efb97a10e0d4c49bcb4b02024853",
   "size": 1663882,
-  "notes": "home: install.sh no longer puts a backup's nftables.conf back (it undid firewall.sh's newer rules); firewall.sh writes the firewall whole"
+  "notes": "Phone: the core's link in the background - no pings; closed unless work the user started runs on the core (kept without pings, closed when it ends); onResume reconnects and resumes (the battery rule)"
 }
