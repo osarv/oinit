@@ -1,8 +1,8 @@
 {
-  "versionCode": 1052,
-  "versionName": "0.1.1052",
-  "apk": "oagent-1052.apk.enc",
-  "sha256": "1b7522adb292b730a6d7fc3ad5c2e02f130b5c255a0276a53f3c782bd35cd410",
-  "size": 996160,
-  "notes": "Phone: a Deny button beside Run / Allow on the model's proposals; Agent mode first steps"
+  "versionCode": 1062,
+  "versionName": "0.1.1062",
+  "apk": "oagent-1062.apk.enc",
+  "sha256": "6fb557f39876fc9ddd6868941d1db24002259ec0faf074c000b0a9b747b90a52",
+  "size": 1000256,
+  "notes": "Phone: the API's web search and fetch in Agent mode with allow all; pause_turn goes on"
 }
