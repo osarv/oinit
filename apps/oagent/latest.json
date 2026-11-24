@@ -1,8 +1,8 @@
 {
-  "versionCode": 1304,
-  "versionName": "0.1.1304",
-  "apk": "oagent-1304.apk.enc",
-  "sha256": "616b4a6456060e06ce1aa4cc0abacf14cdffbb55bc331ec484b1d00eaccdfb61",
-  "size": 1446794,
-  "notes": "Phone: one request policy (fetch.olang: retry-after, x-should-retry, 408/409/429/5xx/529, broken or overloaded streams restarted whole, backoff with jitter, notes while waiting); fault-injection suite run before each release; one JSON encoder with a property test"
+  "versionCode": 1307,
+  "versionName": "0.1.1307",
+  "apk": "oagent-1307.apk.enc",
+  "sha256": "6f5b853f87e86d77cfdf53e47d96f6a2fff92e78dd7ec240e541e734c900334c",
+  "size": 1463178,
+  "notes": "Phone: security guards (docs/security.md): tool output framed as untrusted data, secrets redacted, injection detector, taint gate (actions wait for a tap after web or network reads until the next message), rules.md only with a tap, pinned and hashed speech model, audit log"
 }
