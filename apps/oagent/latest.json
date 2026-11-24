@@ -1,8 +1,8 @@
 {
-  "versionCode": 1298,
-  "versionName": "0.1.1298",
-  "apk": "oagent-1298.apk.enc",
-  "sha256": "7115dd513f6e6f4b527731eaecc38ef226673a541261260ff47b7a066fbf06fc",
-  "size": 1430410,
-  "notes": "home: the nightly backup a system timer run as the ohome user (enabled in /etc: survives the overlay, needs no lingering), plus a boot run 10 min after boot that does nothing when a backup is under 20 h old (--due); lost+found fix included"
+  "versionCode": 1301,
+  "versionName": "0.1.1301",
+  "apk": "oagent-1301.apk.enc",
+  "sha256": "43a468ea20e6958cf369dc3f5ec2ad6c1d34a5857fb2e67604d5becabe928ddd",
+  "size": 1434506,
+  "notes": "e79: seed 2 confirms (wm 0.9998, memory-first order 2/2); e79 closed with reproduce commands"
 }
