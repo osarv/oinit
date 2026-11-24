@@ -1,8 +1,8 @@
 {
-  "versionCode": 1426,
-  "versionName": "0.1.1426",
-  "apk": "oagent-1426.apk.enc",
-  "sha256": "67124a8ed824f43e7cf4e634d9e9969167103041206b5070fee36dabe7f7133f",
-  "size": 1676170,
-  "notes": "Core 0.1.5 builds again on main (App.SessionExited's new signature: the Terminal's shell restarts as in the apps); Pi binary"
+  "versionCode": 1432,
+  "versionName": "0.1.1432",
+  "apk": "oagent-1432.apk.enc",
+  "sha256": "4164e6d671a4f92753500ba115b7c75890f8775edbeb0a30c762cfaa69a4b72c",
+  "size": 1688458,
+  "notes": "Dictation is one shared module; a mouse's drag selects text and the pointer shows its shape, on both platforms"
 }

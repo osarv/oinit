@@ -1,8 +1,8 @@
 {
-  "versionCode": 1426,
-  "versionName": "0.1.1426",
-  "exe": "OAgent-1426.exe.enc",
-  "sha256": "62679d396ed982602a7759f5d89073a15790e59c9cb20e76069f1c78b3475839",
-  "size": 3801088,
-  "notes": "Phone: release 0.1.1426 (full LTO; updates without the prompt where Android allows, the next start reports whether it asked)"
+  "versionCode": 1432,
+  "versionName": "0.1.1432",
+  "exe": "OAgent-1432.exe.enc",
+  "sha256": "6a374cf277c9b9cfaf71b243f4e272ec572cac6a31d473314e37879ce5f965ea",
+  "size": 3919872,
+  "notes": "Phone: release 0.1.1432 (full LTO, 0 bl mulAdd; the core page and forms on the overlay, shared dictation, mouse selection and pointer shapes)"
 }
