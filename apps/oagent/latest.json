@@ -1,8 +1,8 @@
 {
-  "versionCode": 1132,
-  "versionName": "0.1.1132",
-  "apk": "oagent-1132.apk.enc",
-  "sha256": "b3eac7bc8a092bf65f20c92408b4798fb51906fbd59f4a10e345832212b50004",
+  "versionCode": 1135,
+  "versionName": "0.1.1135",
+  "apk": "oagent-1135.apk.enc",
+  "sha256": "e962044ca2e8299307254603013fb63bd957964a9d62b2354d9afac6ceea60a0",
   "size": 1225610,
-  "notes": "Phone: the splash's mark 1.15x (its own drawable, the launcher icon unchanged): the largest the round splash mask shows whole"
+  "notes": "Phone: Permissions, a settings row showing the mode that opens a chooser (Off, Ask, Allow reads, Allow all, a line of help each); its screens in assets/design"
 }
