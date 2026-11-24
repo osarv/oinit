@@ -1,8 +1,8 @@
 {
-  "versionCode": 1350,
-  "versionName": "0.1.1350",
-  "apk": "oagent-1350.apk.enc",
-  "sha256": "bf03333dd9b7dc71df7af6d3224cb6340f7cf04e9ffc546a983b19df406c8caf",
+  "versionCode": 1355,
+  "versionName": "0.1.1355",
+  "apk": "oagent-1355.apk.enc",
+  "sha256": "b0e5be3cde56dde415470e6445eeaa97ddc2a7028960b50b75a7ee589a5ecf50",
   "size": 1528714,
-  "notes": "Shared UI: Decisions - any agent asks the user with ask_user (question, options, default, recommendation) and carries on with its default; kept in FilesDir/decisions (open.jsonl, answered.jsonl), a note in the Chat and OAgent told when a sub-agent asked; answered by a tap on an option in the overlay or in words to OAgent (answer_decision); the answer goes to the asker as a message; Decisions is the drawer's first row with the open count. The drawer's top rows: Decisions, Agents, Audit (moved out of Advanced), Memory, then the sections. Tests (decisions, chat, ui)"
+  "notes": "Desktop: frameless window - no system title bar, icon or white frame; the app's top bar is the title bar (drag, snap, double-click maximize), minimize/maximize/close drawn in the app's style (shared seam App.WindowControls, off on the phone) and hit-tested as Windows' own (snap layouts), dark mode, rounded corners, border in the app's background, DWM shadow. Updater: a tapped check shows Checking… at least 0.7 s and says its result in the chat, every result and failure logged; -updatecheck exercised 1344 -> 1350 under Wine (check, download, seal, SHA-256, version, swap)"
 }
