@@ -1,8 +1,8 @@
 {
-  "versionCode": 1497,
-  "versionName": "0.1.1497",
-  "exe": "OAgent-1497.exe.enc",
-  "sha256": "dfebfb42b813f96c3c92c8f9981a294c752485a7e995541a5a879787900e9402",
-  "size": 4834304,
-  "notes": "Phone: release 0.1.1497 (stock olang, 0 bl mulAdd; memory flush, dated memory with replace/forget and a budget, the archive and recall)"
+  "versionCode": 1503,
+  "versionName": "0.1.1503",
+  "exe": "OAgent-1503.exe.enc",
+  "sha256": "d62a9612b93bbc4cbbc8a8d7a6e716d649a3f29d8e9333e657d8fe74b2987067",
+  "size": 4890112,
+  "notes": "Phone: release 0.1.1503 (stock olang, 0 bl mulAdd; dictation failures said and reported, report means shared with the desktop)"
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 1497,
-  "versionName": "0.1.1497",
-  "apk": "oagent-1497.apk.enc",
-  "sha256": "288515f3be797876e0dde8259875ce865195469f7db3a807081a152f8ba4fe72",
-  "size": 2003850,
-  "notes": "Memory: a flush before every summary, dated entries that replace or forget, a size budget; the archive and recall"
+  "versionCode": 1503,
+  "versionName": "0.1.1503",
+  "apk": "oagent-1503.apk.enc",
+  "sha256": "2080a113ac6e5d290d2df5eb60d01c7e6e3be81d38ecb7b766c9396e04b0fbe0",
+  "size": 2007946,
+  "notes": "Dictation: every start and failure in oagent.log, said in its box and reported (the desktop's reports too)"
 }
