@@ -1,8 +1,8 @@
 {
-  "versionCode": 1503,
-  "versionName": "0.1.1503",
-  "apk": "oagent-1503.apk.enc",
-  "sha256": "2080a113ac6e5d290d2df5eb60d01c7e6e3be81d38ecb7b766c9396e04b0fbe0",
+  "versionCode": 1506,
+  "versionName": "0.1.1506",
+  "apk": "oagent-1506.apk.enc",
+  "sha256": "5c794d0f2daf1adee19cd1e3c770ae65a54625e6b21afed16b3b3f7301d0849c",
   "size": 2007946,
-  "notes": "Dictation: every start and failure in oagent.log, said in its box and reported (the desktop's reports too)"
+  "notes": "Desktop: the mic button clicks, Windows' default microphone and a picker, updates install by themselves"
 }
