@@ -1,8 +1,8 @@
 {
-  "versionCode": 1577,
-  "versionName": "0.1.1577",
-  "apk": "oagent-1577.apk.enc",
-  "sha256": "c2c2edabbaff53594bc06b37e16c75410d80902793f6f56f307e492dfd540ddc",
-  "size": 1975178,
-  "notes": "Desktop hand-off: the next release's items from Core stage 5"
+  "versionCode": 1590,
+  "versionName": "0.1.1590",
+  "apk": "oagent-1590.apk.enc",
+  "sha256": "79130f3bca73c0bd174d66db06afa298bf7857fb7fe0e9f266ef5f12944bcad0",
+  "size": 2028426,
+  "notes": "Enter while dictating ends it and sends once the words are in; Esc cancels the dictation; the group's package list applied on this device"
 }

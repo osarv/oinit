@@ -1,8 +1,8 @@
 {
-  "versionCode": 1577,
-  "versionName": "0.1.1577",
-  "exe": "OAgent-1577.exe.enc",
-  "sha256": "84798b3f9fedc600485d1190db110c248409838cf662f45cccbd3e4a9502481c",
-  "size": 4599296,
-  "notes": "Phone: release 0.1.1577 (from be096d0d, stock olang, 0 bl mulAdd): Allow/Deny pressable, the dictation bar closes on the press, errors reported automatically, speech threads pinned only when faster, live Memory page, Devices page"
+  "versionCode": 1590,
+  "versionName": "0.1.1590",
+  "exe": "OAgent-1590.exe.enc",
+  "sha256": "3471d544f435e06885bcfff9000a4f056de0719ee16960817cfc76a591195a21",
+  "size": 4670976,
+  "notes": "Phone: release 0.1.1590 (from 5bec5cb2, olang c9954a9 full LTO, 0 bl mulAdd): Enter while dictating ends it and sends once the words are in; Esc cancels the dictation; the group's package list applied on this device"
 }
