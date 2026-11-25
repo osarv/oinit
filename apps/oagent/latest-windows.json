@@ -1,8 +1,8 @@
 {
-  "versionCode": 1532,
-  "versionName": "0.1.1532",
-  "exe": "OAgent-1532.exe.enc",
-  "sha256": "c919dccc8df3826c29a085d0858816f0ced322e6b8785b062e04ee338f9e4651",
-  "size": 5022208,
-  "notes": "Phone: release 0.1.1532 (stock olang, 0 bl mulAdd; the Version row without \"Last checked\")"
+  "versionCode": 1539,
+  "versionName": "0.1.1539",
+  "exe": "OAgent-1539.exe.enc",
+  "sha256": "a9bd4c274695c07c8f533a2686e1fc1a5893f1aab60a793d0011ba5136816f1e",
+  "size": 5023232,
+  "notes": "Phone: release 0.1.1539 (stock olang, 0 bl mulAdd; devices named for the core's peers)"
 }

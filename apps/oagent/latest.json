@@ -1,8 +1,8 @@
 {
-  "versionCode": 1532,
-  "versionName": "0.1.1532",
-  "apk": "oagent-1532.apk.enc",
-  "sha256": "0b2c0ac285fcedb9417cb1358bf49a4e75892eaa8ffccda77beefae24a0a717e",
+  "versionCode": 1539,
+  "versionName": "0.1.1539",
+  "apk": "oagent-1539.apk.enc",
+  "sha256": "a10c823554c9247d571152f45b03dfe59dc3bd09b0b6f36f67d2820056018079",
   "size": 2044810,
-  "notes": "Phone/desktop (shared ui): the Version row is just \"Version 0.1.N\"; only after a tap on it (until the drawer closes) its progress under it (Checking…, Downloading… 40%, Installing…, Up to date), no \"Last checked\""
+  "notes": "lib: SHA-512, X25519 + Ed25519 (curve25519.olang) and ChaCha20-Poly1305 (chacha.olang) in pure olang"
 }
