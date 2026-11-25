@@ -1,8 +1,8 @@
 {
-  "versionCode": 1558,
-  "versionName": "0.1.1558",
-  "exe": "OAgent-1558.exe.enc",
-  "sha256": "a53094b5ae857fdcea4b9ba06174d699a6de385456680388003bcfc65cf3b386",
-  "size": 5312512,
-  "notes": "Phone: release 0.1.1558 (stock olang, 0 bl mulAdd; no note, memory never asks, the updater's folder fallbacks)"
+  "versionCode": 1577,
+  "versionName": "0.1.1577",
+  "exe": "OAgent-1577.exe.enc",
+  "sha256": "84798b3f9fedc600485d1190db110c248409838cf662f45cccbd3e4a9502481c",
+  "size": 4599296,
+  "notes": "Phone: release 0.1.1577 (from be096d0d, stock olang, 0 bl mulAdd): Allow/Deny pressable, the dictation bar closes on the press, errors reported automatically, speech threads pinned only when faster, live Memory page, Devices page"
 }
