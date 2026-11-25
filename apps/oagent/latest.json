@@ -1,8 +1,8 @@
 {
-  "versionCode": 1526,
-  "versionName": "0.1.1526",
-  "apk": "oagent-1526.apk.enc",
-  "sha256": "8c235ef0e81ef180ba2a0e30d1763e4bf93351f3ff27fe0db06b99ca050be1ac",
-  "size": 2020234,
-  "notes": "Phone/desktop (shared ui): the arrow over every button, the I-beam on the text field only; scrolling from the first event (6 dp slop applied, sub-pixel steps kept, fling from the last 100 ms on the events' own times, Android's batched moves at their times, lighter friction); over-dictating (settled words go into the box as text, a selection or moved caret takes the next ones, × takes them out)"
+  "versionCode": 1532,
+  "versionName": "0.1.1532",
+  "apk": "oagent-1532.apk.enc",
+  "sha256": "0b2c0ac285fcedb9417cb1358bf49a4e75892eaa8ffccda77beefae24a0a717e",
+  "size": 2044810,
+  "notes": "Phone/desktop (shared ui): the Version row is just \"Version 0.1.N\"; only after a tap on it (until the drawer closes) its progress under it (Checking…, Downloading… 40%, Installing…, Up to date), no \"Last checked\""
 }
