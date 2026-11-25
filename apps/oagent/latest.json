@@ -1,8 +1,8 @@
 {
-  "versionCode": 1462,
-  "versionName": "0.1.1462",
-  "apk": "oagent-1462.apk.enc",
-  "sha256": "005e44b3e77f1b8f8f6ca621e655288696d33671b50ef7334abaf94cf90d4a84",
-  "size": 1962890,
-  "notes": "Chat: a message sent while the core's link is down says so, connects, and goes when it is up; Connect first on the core page"
+  "versionCode": 1472,
+  "versionName": "0.1.1472",
+  "apk": "oagent-1472.apk.enc",
+  "sha256": "7f7894ed20e4a5a2ebbc68e23cb7c5fd9548eba9482d22cedbe54218d69dece4",
+  "size": 1966986,
+  "notes": "Phone and desktop: oann pinned at 71fd35b (faster Whisper decoder); host dictatebench stop to words 241 ms, the decoder per token 12.2 -> 5.8 ms; aarch64 text checked under qemu"
 }

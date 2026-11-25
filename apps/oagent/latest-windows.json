@@ -1,8 +1,8 @@
 {
-  "versionCode": 1462,
-  "versionName": "0.1.1462",
-  "exe": "OAgent-1462.exe.enc",
-  "sha256": "a30db8d6f367c80bb8f4f63a5d66d5ccdf3d3a435be33c2f177256870d0fe21e",
-  "size": 4662272,
-  "notes": "Phone: release 0.1.1462 (stock olang, 0 bl mulAdd; no core link and no key: the chat says so and connects, the message goes when connected; Connect first on the core page)"
+  "versionCode": 1472,
+  "versionName": "0.1.1472",
+  "exe": "OAgent-1472.exe.enc",
+  "sha256": "e273128d839f27da3fd3a6b5f98d4cc90a9cf5b1660f2af99bb67ef7ad7fc510",
+  "size": 4667904,
+  "notes": "Phone: release 0.1.1472 (stock olang, 0 bl mulAdd; oann 71fd35b: the Whisper decoder about 2x faster)"
 }
