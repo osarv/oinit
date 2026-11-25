@@ -1,8 +1,8 @@
 {
-  "versionCode": 1558,
-  "versionName": "0.1.1558",
-  "apk": "oagent-1558.apk.enc",
-  "sha256": "6371a3d60336c7b429ba09e4c624b77d1e855d277fa84a4b62f83bec09027ca2",
-  "size": 2155402,
-  "notes": "Phone/desktop: no note after an update (reopen where Android allows, else nothing); every memory write runs without a tap, rules too; the updater writes to files/updates, else cache/updates, else the external files dir, logging each path, its real path and errno, and reports which worked"
+  "versionCode": 1577,
+  "versionName": "0.1.1577",
+  "apk": "oagent-1577.apk.enc",
+  "sha256": "c2c2edabbaff53594bc06b37e16c75410d80902793f6f56f307e492dfd540ddc",
+  "size": 1975178,
+  "notes": "Desktop hand-off: the next release's items from Core stage 5"
 }
