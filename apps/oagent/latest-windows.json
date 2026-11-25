@@ -1,8 +1,8 @@
 {
-  "versionCode": 1475,
-  "versionName": "0.1.1475",
-  "exe": "OAgent-1475.exe.enc",
-  "sha256": "3adff985f98a769333341e1bdf1f7e638f867bc37f1fe89408ade322bd0eee84",
-  "size": 4679168,
-  "notes": "Phone: release 0.1.1475 (stock olang, 0 bl mulAdd; a remember tool for the memory files)"
+  "versionCode": 1483,
+  "versionName": "0.1.1483",
+  "exe": "OAgent-1483.exe.enc",
+  "sha256": "99e562278a7344a964630a5fb19ac06da83b48dd4e3a3523a6c9c63fc3948dc2",
+  "size": 4680192,
+  "notes": "Phone: release 0.1.1483 (stock olang, 0 bl mulAdd; the terminal in colour)"
 }

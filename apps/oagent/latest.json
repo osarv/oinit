@@ -1,8 +1,8 @@
 {
-  "versionCode": 1475,
-  "versionName": "0.1.1475",
-  "apk": "oagent-1475.apk.enc",
-  "sha256": "eb8f3c509a0ca18d2117446f876d13578bf654f3820ed9fc09cd5691bd81eed7",
+  "versionCode": 1483,
+  "versionName": "0.1.1483",
+  "apk": "oagent-1483.apk.enc",
+  "sha256": "541a8b5a76c3e1e6c29570328e99027702e2e8e9329a596c109d6f2627f04f72",
   "size": 1971082,
-  "notes": "Chat: a remember tool for the memory files; the prompt says to use it, never another file"
+  "notes": "Terminal in colour again: the shared rc keeps a coloured prompt and ls/grep colours; the core seeds ~/.bashrc and ~/.profile"
 }
