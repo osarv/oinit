@@ -1,8 +1,8 @@
 {
-  "versionCode": 1521,
-  "versionName": "0.1.1521",
-  "apk": "oagent-1521.apk.enc",
-  "sha256": "874e45361d82e49ade69ac45fd860214eb1a6daf0275ea18bde318d5776f90ca",
-  "size": 2012042,
-  "notes": "Scrolling predictable: a wheel notch a fixed eased distance, no momentum; the drawer's fling never sticks; the mic test presses the real buttons"
+  "versionCode": 1526,
+  "versionName": "0.1.1526",
+  "apk": "oagent-1526.apk.enc",
+  "sha256": "8c235ef0e81ef180ba2a0e30d1763e4bf93351f3ff27fe0db06b99ca050be1ac",
+  "size": 2020234,
+  "notes": "Phone/desktop (shared ui): the arrow over every button, the I-beam on the text field only; scrolling from the first event (6 dp slop applied, sub-pixel steps kept, fling from the last 100 ms on the events' own times, Android's batched moves at their times, lighter friction); over-dictating (settled words go into the box as text, a selection or moved caret takes the next ones, × takes them out)"
 }
