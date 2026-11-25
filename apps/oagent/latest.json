@@ -1,8 +1,8 @@
 {
-  "versionCode": 1606,
-  "versionName": "0.1.1606",
-  "apk": "oagent-1606.apk.enc",
-  "sha256": "0c9aa7876a765ad90d9df44f2f92957bbe2e2747ff22a1aaefd222e9dd9a662a",
-  "size": 2036618,
-  "notes": "Desktop: the first window inside its monitor's work area (MonitorFromWindow + GetMonitorInfoW rcWork, the taskbar on any edge): sized in the monitor's pixels, at most 90 %, moved only as far as needed (place.Fit, tested)"
+  "versionCode": 1627,
+  "versionName": "0.1.1627",
+  "apk": "oagent-1627.apk.enc",
+  "sha256": "09128bcde2b9928ab92b1caea31ef27a152cfd6e4aa56f33e1beeef0cdc2034e",
+  "size": 2053002,
+  "notes": "Hover highlights: a faint rounded patch behind the control a press would act on now (ui.PressableAt, the taps' own regions in their order: not a current choice, a label, or under a card, picker or drawer); desktop on WM_MOUSEMOVE/LEAVE, Android's mouse hover too; a finger's press lit while down and 120 ms after, gone on a scroll; the plan (Todos) reaches a mirror (tests)"
 }

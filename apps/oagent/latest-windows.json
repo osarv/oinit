@@ -1,8 +1,8 @@
 {
-  "versionCode": 1606,
-  "versionName": "0.1.1606",
-  "exe": "OAgent-1606.exe.enc",
-  "sha256": "c6a19b5b60e894b8aeda9d9d4ef8db5465701d7a73c54017f3f584a01003b2cd",
-  "size": 4697600,
-  "notes": "Phone: release 0.1.1606 (from a81df224, olang master full LTO, 0 bl mulAdd): Esc while dictating keeps the words; memory never asks; Allow/Deny by the call's id, the arrow over buttons; double tap selects all (box) or a word with handles (conversation); no version notes in the chat, each update said once; open questions counted in the top bar and carried with each message"
+  "versionCode": 1627,
+  "versionName": "0.1.1627",
+  "exe": "OAgent-1627.exe.enc",
+  "sha256": "ecc99db39a1a89c276719e8bd96a01c80f71c858f46ab3f130e0c7ff4626f7d2",
+  "size": 4742144,
+  "notes": "Phone: release 0.1.1627 (from e14b1e16, olang master full LTO, 0 bl mulAdd): hover and press highlights; the harness on the device (prompt caching and the cache hit line, the month's credit meter, evals, tool errors the model can act on, todo_write's plan kept with the chat and mirrored)"
 }
