@@ -1,8 +1,8 @@
 {
-  "versionCode": 1432,
-  "versionName": "0.1.1432",
-  "exe": "OAgent-1432.exe.enc",
-  "sha256": "6a374cf277c9b9cfaf71b243f4e272ec572cac6a31d473314e37879ce5f965ea",
+  "versionCode": 1443,
+  "versionName": "0.1.1443",
+  "exe": "OAgent-1443.exe.enc",
+  "sha256": "2d53377ed8e8588162c88a5791b8393eccf25e1d8b8adea29da91a6ee19dd254",
   "size": 3919872,
-  "notes": "Phone: release 0.1.1432 (full LTO, 0 bl mulAdd; the core page and forms on the overlay, shared dictation, mouse selection and pointer shapes)"
+  "notes": "Phone: release 0.1.1443 (full LTO, 0 bl mulAdd; a standard Linux tree with /home/USER, /proc emulated where Android refuses, real names in ps, pkg's scripts from a terminal's pkg; the dictation fixes)"
 }

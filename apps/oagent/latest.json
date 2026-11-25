@@ -1,8 +1,8 @@
 {
-  "versionCode": 1432,
-  "versionName": "0.1.1432",
-  "apk": "oagent-1432.apk.enc",
-  "sha256": "4164e6d671a4f92753500ba115b7c75890f8775edbeb0a30c762cfaa69a4b72c",
-  "size": 1688458,
-  "notes": "Dictation is one shared module; a mouse's drag selects text and the pointer shows its shape, on both platforms"
+  "versionCode": 1443,
+  "versionName": "0.1.1443",
+  "apk": "oagent-1443.apk.enc",
+  "sha256": "8883c1f8d1ccd2cb3ae320aff9574fa7e71889837cbc8bbace68cd65788abb91",
+  "size": 1729418,
+  "notes": "Phone: agent.GuestHome a mut global (the app sets it)"
 }
