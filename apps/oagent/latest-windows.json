@@ -1,8 +1,8 @@
 {
-  "versionCode": 1517,
-  "versionName": "0.1.1517",
-  "exe": "OAgent-1517.exe.enc",
-  "sha256": "fba4482f5b3f41de7434376cf919d837125c782325ae61abb3416c0a8b3887b3",
-  "size": 4931584,
-  "notes": "Phone: release 0.1.1517 (stock olang, 0 bl mulAdd; update on open and resume, Version row installs, auto-install when quiet)"
+  "versionCode": 1521,
+  "versionName": "0.1.1521",
+  "exe": "OAgent-1521.exe.enc",
+  "sha256": "d6adfc85dd092e8ca16663f9b00027f16552bb0482e914a6a61a6544a00d01c1",
+  "size": 4936704,
+  "notes": "Phone: release 0.1.1521 (stock olang, 0 bl mulAdd; predictable scrolling)"
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 1517,
-  "versionName": "0.1.1517",
-  "apk": "oagent-1517.apk.enc",
-  "sha256": "121b54a593cc4a07572f246392e15ef8b0fdec94a2d8c520bbea91e301bcab40",
+  "versionCode": 1521,
+  "versionName": "0.1.1521",
+  "apk": "oagent-1521.apk.enc",
+  "sha256": "874e45361d82e49ade69ac45fd860214eb1a6daf0275ea18bde318d5776f90ca",
   "size": 2012042,
-  "notes": "Desktop: a dictation's end no longer crashes; the pointer over a box's buttons is a hand"
+  "notes": "Scrolling predictable: a wheel notch a fixed eased distance, no momentum; the drawer's fling never sticks; the mic test presses the real buttons"
 }
