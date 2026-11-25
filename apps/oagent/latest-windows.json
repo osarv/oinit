@@ -1,8 +1,8 @@
 {
-  "versionCode": 1483,
-  "versionName": "0.1.1483",
-  "exe": "OAgent-1483.exe.enc",
-  "sha256": "99e562278a7344a964630a5fb19ac06da83b48dd4e3a3523a6c9c63fc3948dc2",
-  "size": 4680192,
-  "notes": "Phone: release 0.1.1483 (stock olang, 0 bl mulAdd; the terminal in colour)"
+  "versionCode": 1492,
+  "versionName": "0.1.1492",
+  "exe": "OAgent-1492.exe.enc",
+  "sha256": "8f108629f593495faed601dacd035899755b32b48e441c4e1acfe6700b2520f1",
+  "size": 4704256,
+  "notes": "Phone: release 0.1.1492 (stock olang, 0 bl mulAdd; a paired client shows the core's terminal only)"
 }

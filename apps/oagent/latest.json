@@ -1,8 +1,8 @@
 {
-  "versionCode": 1483,
-  "versionName": "0.1.1483",
-  "apk": "oagent-1483.apk.enc",
-  "sha256": "541a8b5a76c3e1e6c29570328e99027702e2e8e9329a596c109d6f2627f04f72",
-  "size": 1971082,
-  "notes": "Terminal in colour again: the shared rc keeps a coloured prompt and ls/grep colours; the core seeds ~/.bashrc and ~/.profile"
+  "versionCode": 1492,
+  "versionName": "0.1.1492",
+  "apk": "oagent-1492.apk.enc",
+  "sha256": "cf6a2b9f6ea341b07d2bb084a850a1c80d0d561f11ec8569983799eb8684e40f",
+  "size": 1979274,
+  "notes": "Client of a core: OAgent's terminal slot only shows the core's terminal (no local chat mirror fed, no full-screen takeover); its keys go to the core unfiltered (the core gates them)"
 }
