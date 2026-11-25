@@ -1,8 +1,8 @@
 {
-  "versionCode": 1492,
-  "versionName": "0.1.1492",
-  "apk": "oagent-1492.apk.enc",
-  "sha256": "cf6a2b9f6ea341b07d2bb084a850a1c80d0d561f11ec8569983799eb8684e40f",
-  "size": 1979274,
-  "notes": "Client of a core: OAgent's terminal slot only shows the core's terminal (no local chat mirror fed, no full-screen takeover); its keys go to the core unfiltered (the core gates them)"
+  "versionCode": 1497,
+  "versionName": "0.1.1497",
+  "apk": "oagent-1497.apk.enc",
+  "sha256": "288515f3be797876e0dde8259875ce865195469f7db3a807081a152f8ba4fe72",
+  "size": 2003850,
+  "notes": "Memory: a flush before every summary, dated entries that replace or forget, a size budget; the archive and recall"
 }
