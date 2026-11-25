@@ -1,8 +1,8 @@
 {
-  "versionCode": 1456,
-  "versionName": "0.1.1456",
-  "apk": "oagent-1456.apk.enc",
-  "sha256": "78be92affb44ace3486f41dcecc2f66c65a62fcc62580694eca40cea039c093d",
+  "versionCode": 1462,
+  "versionName": "0.1.1462",
+  "apk": "oagent-1462.apk.enc",
+  "sha256": "005e44b3e77f1b8f8f6ca621e655288696d33671b50ef7334abaf94cf90d4a84",
   "size": 1962890,
-  "notes": "Terminal start logged end to end; a process's ps name can no longer stop it from starting"
+  "notes": "Chat: a message sent while the core's link is down says so, connects, and goes when it is up; Connect first on the core page"
 }

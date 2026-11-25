@@ -1,8 +1,8 @@
 {
-  "versionCode": 1456,
-  "versionName": "0.1.1456",
-  "exe": "OAgent-1456.exe.enc",
-  "sha256": "52dc5e02f6afc2644dd3bafea28b4413a0f533f884313f4a645258a6fc097641",
-  "size": 4656640,
-  "notes": "Phone: release 0.1.1456 (stock olang ThinLTO, 0 bl mulAdd; thinking-block refusal fixed, terminal start logged, process naming best effort, getcwd guest paths)"
+  "versionCode": 1462,
+  "versionName": "0.1.1462",
+  "exe": "OAgent-1462.exe.enc",
+  "sha256": "a30db8d6f367c80bb8f4f63a5d66d5ccdf3d3a435be33c2f177256870d0fe21e",
+  "size": 4662272,
+  "notes": "Phone: release 0.1.1462 (stock olang, 0 bl mulAdd; no core link and no key: the chat says so and connects, the message goes when connected; Connect first on the core page)"
 }
