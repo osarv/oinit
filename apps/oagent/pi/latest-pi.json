@@ -1,0 +1,7 @@
+{
+  "version": "0.1.17",
+  "bin": "oagent-core-0.1.17.enc",
+  "sha256": "e7fabede5c47b5dd53242aa4523d278c0fe7565a0b306fc67416e9aa1d624104",
+  "size": 1976288,
+  "sig": "d0dfb557c7340a2354b7a4447e0b2c22c1ce5c211d2c992c3ef7aa0adfbccc49c55d7f9e15967b0dffb05f15f61bcd47df82cdf66b709ccc652f7ac19036920b"
+}
