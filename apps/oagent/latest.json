@@ -1,8 +1,8 @@
 {
-  "versionCode": 1539,
-  "versionName": "0.1.1539",
-  "apk": "oagent-1539.apk.enc",
-  "sha256": "a10c823554c9247d571152f45b03dfe59dc3bd09b0b6f36f67d2820056018079",
-  "size": 2044810,
-  "notes": "lib: SHA-512, X25519 + Ed25519 (curve25519.olang) and ChaCha20-Poly1305 (chacha.olang) in pure olang"
+  "versionCode": 1558,
+  "versionName": "0.1.1558",
+  "apk": "oagent-1558.apk.enc",
+  "sha256": "6371a3d60336c7b429ba09e4c624b77d1e855d277fa84a4b62f83bec09027ca2",
+  "size": 2155402,
+  "notes": "Phone/desktop: no note after an update (reopen where Android allows, else nothing); every memory write runs without a tap, rules too; the updater writes to files/updates, else cache/updates, else the external files dir, logging each path, its real path and errno, and reports which worked"
 }
