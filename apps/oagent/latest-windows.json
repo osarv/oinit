@@ -1,8 +1,8 @@
 {
-  "versionCode": 1443,
-  "versionName": "0.1.1443",
-  "exe": "OAgent-1443.exe.enc",
-  "sha256": "2d53377ed8e8588162c88a5791b8393eccf25e1d8b8adea29da91a6ee19dd254",
-  "size": 3919872,
-  "notes": "Phone: release 0.1.1443 (full LTO, 0 bl mulAdd; a standard Linux tree with /home/USER, /proc emulated where Android refuses, real names in ps, pkg's scripts from a terminal's pkg; the dictation fixes)"
+  "versionCode": 1456,
+  "versionName": "0.1.1456",
+  "exe": "OAgent-1456.exe.enc",
+  "sha256": "52dc5e02f6afc2644dd3bafea28b4413a0f533f884313f4a645258a6fc097641",
+  "size": 4656640,
+  "notes": "Phone: release 0.1.1456 (stock olang ThinLTO, 0 bl mulAdd; thinking-block refusal fixed, terminal start logged, process naming best effort, getcwd guest paths)"
 }

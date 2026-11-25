@@ -1,8 +1,8 @@
 {
-  "versionCode": 1443,
-  "versionName": "0.1.1443",
-  "apk": "oagent-1443.apk.enc",
-  "sha256": "8883c1f8d1ccd2cb3ae320aff9574fa7e71889837cbc8bbace68cd65788abb91",
-  "size": 1729418,
-  "notes": "Phone: agent.GuestHome a mut global (the app sets it)"
+  "versionCode": 1456,
+  "versionName": "0.1.1456",
+  "apk": "oagent-1456.apk.enc",
+  "sha256": "78be92affb44ace3486f41dcecc2f66c65a62fcc62580694eca40cea039c093d",
+  "size": 1962890,
+  "notes": "Terminal start logged end to end; a process's ps name can no longer stop it from starting"
 }
