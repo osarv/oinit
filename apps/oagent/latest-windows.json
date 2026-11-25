@@ -1,8 +1,8 @@
 {
-  "versionCode": 1590,
-  "versionName": "0.1.1590",
-  "exe": "OAgent-1590.exe.enc",
-  "sha256": "3471d544f435e06885bcfff9000a4f056de0719ee16960817cfc76a591195a21",
-  "size": 4670976,
-  "notes": "Phone: release 0.1.1590 (from 5bec5cb2, olang c9954a9 full LTO, 0 bl mulAdd): Enter while dictating ends it and sends once the words are in; Esc cancels the dictation; the group's package list applied on this device"
+  "versionCode": 1606,
+  "versionName": "0.1.1606",
+  "exe": "OAgent-1606.exe.enc",
+  "sha256": "c6a19b5b60e894b8aeda9d9d4ef8db5465701d7a73c54017f3f584a01003b2cd",
+  "size": 4697600,
+  "notes": "Phone: release 0.1.1606 (from a81df224, olang master full LTO, 0 bl mulAdd): Esc while dictating keeps the words; memory never asks; Allow/Deny by the call's id, the arrow over buttons; double tap selects all (box) or a word with handles (conversation); no version notes in the chat, each update said once; open questions counted in the top bar and carried with each message"
 }

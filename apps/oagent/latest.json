@@ -1,8 +1,8 @@
 {
-  "versionCode": 1590,
-  "versionName": "0.1.1590",
-  "apk": "oagent-1590.apk.enc",
-  "sha256": "79130f3bca73c0bd174d66db06afa298bf7857fb7fe0e9f266ef5f12944bcad0",
-  "size": 2028426,
-  "notes": "Enter while dictating ends it and sends once the words are in; Esc cancels the dictation; the group's package list applied on this device"
+  "versionCode": 1606,
+  "versionName": "0.1.1606",
+  "apk": "oagent-1606.apk.enc",
+  "sha256": "0c9aa7876a765ad90d9df44f2f92957bbe2e2747ff22a1aaefd222e9dd9a662a",
+  "size": 2036618,
+  "notes": "Desktop: the first window inside its monitor's work area (MonitorFromWindow + GetMonitorInfoW rcWork, the taskbar on any edge): sized in the monitor's pixels, at most 90 %, moved only as far as needed (place.Fit, tested)"
 }
