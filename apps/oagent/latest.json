@@ -1,8 +1,8 @@
 {
-  "versionCode": 1509,
-  "versionName": "0.1.1509",
-  "apk": "oagent-1509.apk.enc",
-  "sha256": "7a1e51ae60f6b534eaf52042fc395a288355186179689d6e13dabf7002726b12",
-  "size": 2007946,
-  "notes": "Reports go by themselves: no setting, once an hour per error, on the core's ask; the desktop's key from the core"
+  "versionCode": 1517,
+  "versionName": "0.1.1517",
+  "apk": "oagent-1517.apk.enc",
+  "sha256": "121b54a593cc4a07572f246392e15ef8b0fdec94a2d8c520bbea91e301bcab40",
+  "size": 2012042,
+  "notes": "Desktop: a dictation's end no longer crashes; the pointer over a box's buttons is a hand"
 }
