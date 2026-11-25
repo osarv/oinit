@@ -1,8 +1,8 @@
 {
-  "versionCode": 1472,
-  "versionName": "0.1.1472",
-  "apk": "oagent-1472.apk.enc",
-  "sha256": "7f7894ed20e4a5a2ebbc68e23cb7c5fd9548eba9482d22cedbe54218d69dece4",
-  "size": 1966986,
-  "notes": "Phone and desktop: oann pinned at 71fd35b (faster Whisper decoder); host dictatebench stop to words 241 ms, the decoder per token 12.2 -> 5.8 ms; aarch64 text checked under qemu"
+  "versionCode": 1475,
+  "versionName": "0.1.1475",
+  "apk": "oagent-1475.apk.enc",
+  "sha256": "eb8f3c509a0ca18d2117446f876d13578bf654f3820ed9fc09cd5691bd81eed7",
+  "size": 1971082,
+  "notes": "Chat: a remember tool for the memory files; the prompt says to use it, never another file"
 }

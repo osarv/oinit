@@ -1,8 +1,8 @@
 {
-  "versionCode": 1472,
-  "versionName": "0.1.1472",
-  "exe": "OAgent-1472.exe.enc",
-  "sha256": "e273128d839f27da3fd3a6b5f98d4cc90a9cf5b1660f2af99bb67ef7ad7fc510",
-  "size": 4667904,
-  "notes": "Phone: release 0.1.1472 (stock olang, 0 bl mulAdd; oann 71fd35b: the Whisper decoder about 2x faster)"
+  "versionCode": 1475,
+  "versionName": "0.1.1475",
+  "exe": "OAgent-1475.exe.enc",
+  "sha256": "3adff985f98a769333341e1bdf1f7e638f867bc37f1fe89408ade322bd0eee84",
+  "size": 4679168,
+  "notes": "Phone: release 0.1.1475 (stock olang, 0 bl mulAdd; a remember tool for the memory files)"
 }
