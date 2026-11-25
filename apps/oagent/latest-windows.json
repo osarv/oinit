@@ -1,8 +1,8 @@
 {
-  "versionCode": 1506,
-  "versionName": "0.1.1506",
-  "exe": "OAgent-1506.exe.enc",
-  "sha256": "4b2c4e1e73c66580a65ae13aa2876dbf8c2bcf9946317b43c254af9af062b672",
-  "size": 4915200,
-  "notes": "Phone: release 0.1.1506 (stock olang, 0 bl mulAdd; shared ui: Microphone row where listed, Quiet)"
+  "versionCode": 1509,
+  "versionName": "0.1.1509",
+  "exe": "OAgent-1509.exe.enc",
+  "sha256": "bd9a8869d66e6971d994ac0a9c763655017cbb3ca63c679f351ab27c8f942884",
+  "size": 4922880,
+  "notes": "Phone: release 0.1.1509 (stock olang, 0 bl mulAdd; reports without a setting, hourly, on the core's ask)"
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 1506,
-  "versionName": "0.1.1506",
-  "apk": "oagent-1506.apk.enc",
-  "sha256": "5c794d0f2daf1adee19cd1e3c770ae65a54625e6b21afed16b3b3f7301d0849c",
+  "versionCode": 1509,
+  "versionName": "0.1.1509",
+  "apk": "oagent-1509.apk.enc",
+  "sha256": "7a1e51ae60f6b534eaf52042fc395a288355186179689d6e13dabf7002726b12",
   "size": 2007946,
-  "notes": "Desktop: the mic button clicks, Windows' default microphone and a picker, updates install by themselves"
+  "notes": "Reports go by themselves: no setting, once an hour per error, on the core's ask; the desktop's key from the core"
 }
