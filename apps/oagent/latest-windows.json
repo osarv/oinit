@@ -1,8 +1,8 @@
 {
-  "versionCode": 1682,
-  "versionName": "0.1.1682",
-  "exe": "OAgent-1682.exe.enc",
-  "sha256": "b944326d2aefb5dfc3724bcbf19eca48bad7e9cfce281f0622eaafc5fb545e38",
-  "size": 7612416,
-  "notes": "Phone: release 0.1.1682 (from af42abe0, olang master stock ThinLTO, 0 bl mulAdd): the core link without a reconnect storm (one attempt at a time, backoff with jitter, a new network closes the old link)"
+  "versionCode": 1689,
+  "versionName": "0.1.1689",
+  "exe": "OAgent-1689.exe.enc",
+  "sha256": "75f9ce8223fac0eef941409e8efaa60c9ea5daf46eaed9d090c934bb86ea64b4",
+  "size": 7611904,
+  "notes": "Phone: release 0.1.1689 (from b8c5e3b5, olang master stock ThinLTO, 0 bl mulAdd): the dictation stop never steered (fast stops again); send while dictating waits for the last words; the core link without a reconnect storm"
 }

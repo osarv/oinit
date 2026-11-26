@@ -1,8 +1,8 @@
 {
-  "versionCode": 1682,
-  "versionName": "0.1.1682",
-  "apk": "oagent-1682.apk.enc",
-  "sha256": "4a7d577d4021827b213ac6ed9c5a4e71a5e7eb2d649ff7b7aa04c27d4469c0fb",
+  "versionCode": 1689,
+  "versionName": "0.1.1689",
+  "apk": "oagent-1689.apk.enc",
+  "sha256": "9647e1cce232aa5c8e34967432f0fe289430f4729b21224a903c3f6db20aece6",
   "size": 3036042,
-  "notes": "Core link: no reconnect storm. Apps: one attempt at a time, wire.Backoff (1 s doubling to 30 s, 25% jitter) after every failed attempt and every connection that ended (from 1 s only after one that lasted 30 s), naps not cut short by commands or ticks, the phone closes its link when the network changes; desktop: one link thread at a time. Core: a device's new sign-in closes its older connections (logged once). Pi firewall 7443: 30 new/min, shut out 2 min (was 20/min, 1 h)."
+  "notes": "Dictation: the stop is never steered (1666 on a Fairphone 4: stops of 5-7 s and two 6 s watchdogs on 1-8 s clips; the steered beam's first step, the prompt for 2 x Beams rows, is past what StopCost foresees or the budget can cut); a steered settle while one speaks given up after 1 s, so a stop never waits long behind it. Test with a time budget (real whisper-base, a 1.75 s clip with the context's rare word): the biased stop is not beamed, the same words, no slower than the plain stop"
 }
