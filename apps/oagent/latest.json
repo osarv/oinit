@@ -1,8 +1,8 @@
 {
-  "versionCode": 1627,
-  "versionName": "0.1.1627",
-  "apk": "oagent-1627.apk.enc",
-  "sha256": "09128bcde2b9928ab92b1caea31ef27a152cfd6e4aa56f33e1beeef0cdc2034e",
-  "size": 2053002,
-  "notes": "Hover highlights: a faint rounded patch behind the control a press would act on now (ui.PressableAt, the taps' own regions in their order: not a current choice, a label, or under a card, picker or drawer); desktop on WM_MOUSEMOVE/LEAVE, Android's mouse hover too; a finger's press lit while down and 120 ms after, gone on a scroll; the plan (Todos) reaches a mirror (tests)"
+  "versionCode": 1633,
+  "versionName": "0.1.1633",
+  "apk": "oagent-1633.apk.enc",
+  "sha256": "80b0e75e301a243020491d282042acc3fe03c987de805b9a015124b3034f7561",
+  "size": 2093962,
+  "notes": "Rich conversation, part 2 (phone/app/docs/rich.md): tool activity cards (icon by kind, short form, state, time; a command's output on its call's card, live while it runs; look-only calls folded into one card); grouped cards for Settings, Memory, Decisions and Devices in one card style (View.Page, Joined rows); decision times read in nanoseconds (tests)"
 }

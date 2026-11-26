@@ -1,8 +1,8 @@
 {
-  "versionCode": 1627,
-  "versionName": "0.1.1627",
-  "exe": "OAgent-1627.exe.enc",
-  "sha256": "ecc99db39a1a89c276719e8bd96a01c80f71c858f46ab3f130e0c7ff4626f7d2",
-  "size": 4742144,
-  "notes": "Phone: release 0.1.1627 (from e14b1e16, olang master full LTO, 0 bl mulAdd): hover and press highlights; the harness on the device (prompt caching and the cache hit line, the month's credit meter, evals, tool errors the model can act on, todo_write's plan kept with the chat and mirrored)"
+  "versionCode": 1633,
+  "versionName": "0.1.1633",
+  "exe": "OAgent-1633.exe.enc",
+  "sha256": "755e7cd6f708d005f58aa5281ab6c9260a7edd59277543426c2c56d493b1319c",
+  "size": 4854272,
+  "notes": "Phone: release 0.1.1633 (from 913c3e89, olang master full LTO, 0 bl mulAdd): rich conversation part 1 (plan card, code blocks with Copy, tables, diagrams) and part 2 (tool activity cards; grouped cards for Settings, Memory, Decisions and Devices)"
 }
