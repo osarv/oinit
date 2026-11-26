@@ -1,8 +1,8 @@
 {
-  "versionCode": 1766,
-  "versionName": "0.1.1766",
-  "apk": "oagent-1766.apk.enc",
-  "sha256": "b0565d81aee8f146959afa423a9f3f9437b03299f92ea21aa2440bd1752f9aed",
+  "versionCode": 1775,
+  "versionName": "0.1.1775",
+  "apk": "oagent-1775.apk.enc",
+  "sha256": "dd25690af3b52d30c26c8d22bb6bd08e53549cfc8bc6d317323d22fb5f972660",
   "size": 2876298,
-  "notes": "Prompt: a missing program is installed with the package command or said to be missing, never rebuilt by hand (the evals thread: the agent hand-wrote git objects for 6 min on the Pi without git)"
+  "notes": "e73 w15c: RL to depth 8 pays after the d8 cool-down; q12d8b is the reference"
 }
