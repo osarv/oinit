@@ -1,8 +1,8 @@
 {
-  "versionCode": 1751,
-  "versionName": "0.1.1751",
-  "apk": "oagent-1751.apk.enc",
-  "sha256": "40fef0146e0025a95cd101d7288b6c1d83b629c53ff98352f5d53015f0fa12c5",
+  "versionCode": 1766,
+  "versionName": "0.1.1766",
+  "apk": "oagent-1766.apk.enc",
+  "sha256": "b0565d81aee8f146959afa423a9f3f9437b03299f92ea21aa2440bd1752f9aed",
   "size": 2876298,
-  "notes": "Agents page as a tree (the Orchestrator, 2026-11-26): each level set in one step (TreeStepDp 16), its card too; a thin guide line under each parent's dot down to its children with an elbow into each (ui.TreeGuides); OAgent at the root in the top bar's title face. Rows no longer indented by spaces in their names. Test (ui), shot.TreeShots (OAGENT_SHOTS=tree)"
+  "notes": "Prompt: a missing program is installed with the package command or said to be missing, never rebuilt by hand (the evals thread: the agent hand-wrote git objects for 6 min on the Pi without git)"
 }

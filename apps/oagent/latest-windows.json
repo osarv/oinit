@@ -1,8 +1,8 @@
 {
-  "versionCode": 1751,
-  "versionName": "0.1.1751",
-  "exe": "OAgent-1751.exe.enc",
-  "sha256": "6f00b7044b2be57dbc0a02b013a0708559eaf86420d7733482c5c787c30befb0",
-  "size": 6962176,
-  "notes": "Phone: release 0.1.1751 (from 60711cce, olang master stock, 0 bl mulAdd): the Agents page as a tree (levels set in, guide lines, OAgent at the root); with sub-agents in the top bar on a client of the core, crash logging, Max spend/steps shown at once, the month's spend never below a chat's, the Devices page's buttons and state dots, the round icon"
+  "versionCode": 1766,
+  "versionName": "0.1.1766",
+  "exe": "OAgent-1766.exe.enc",
+  "sha256": "1d1cfdefd582b39ff3907ff0246d324cdcfb70c09b23f3ff7ce30df746ced805",
+  "size": 6963712,
+  "notes": "Phone: release 0.1.1766 (from dfe874f8, olang master stock, 0 bl mulAdd): the core link no longer closes after 0 s as a ping time-out; a missing program is installed or reported, never rebuilt by hand"
 }
