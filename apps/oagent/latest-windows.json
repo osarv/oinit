@@ -1,8 +1,8 @@
 {
-  "versionCode": 1648,
-  "versionName": "0.1.1648",
-  "exe": "OAgent-1648.exe.enc",
-  "sha256": "3f4ecd227ba37d8ee2009b4282be634bd3579a6ae8bfd375e6ced10e1d7f7c06",
-  "size": 6480896,
-  "notes": "Phone: release 0.1.1648 (from d9bbb8b3, olang master full LTO, 0 bl mulAdd): the compute pool on the phone - its res op every 10 minutes when changed, the jobs named for it run through the launcher in the Debian prefix"
+  "versionCode": 1666,
+  "versionName": "0.1.1666",
+  "exe": "OAgent-1666.exe.enc",
+  "sha256": "c96756e7b0d4a84b9b91583926f27e4be232968b6e522d53b05fb6a1ba557cb2",
+  "size": 7606784,
+  "notes": "Phone: release 0.1.1666 (from f414a607, olang master stock ThinLTO, 0 bl mulAdd): dictation biased by the conversation at the old speed (steered beam only where a live pass's choice would change; the stop's within 0.2 s)"
 }

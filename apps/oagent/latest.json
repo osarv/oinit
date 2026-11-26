@@ -1,8 +1,8 @@
 {
-  "versionCode": 1648,
-  "versionName": "0.1.1648",
-  "apk": "oagent-1648.apk.enc",
-  "sha256": "f0de6f777d72be095f8bc076421797c17f0080a7eafa3e7495b94109a086660d",
-  "size": 2663306,
-  "notes": "Compute pool, the apps' part: res op at start and every 10 minutes when changed, the jobs named for the device run in its synced workspace's jobs/ID (phone: a pty through the launcher in the Debian prefix; desktop: WSL2, wsl.exe --cd, each on a thread, WSL's resources by Res.Look); shared ResOp/ToStart/StateOp in pool.olang with tests"
+  "versionCode": 1666,
+  "versionName": "0.1.1666",
+  "apk": "oagent-1666.apk.enc",
+  "sha256": "8b89840d97e53822d34e33811d818b59b95163b82da1f79797604743e4d8795e",
+  "size": 3036042,
+  "notes": "Dictation bias at the old speed: steer only where a live pass's choice would change, the rest settles as before; the stop's beam within 0.2 s (predicted, then cut) else the unsteered words; tests"
 }
