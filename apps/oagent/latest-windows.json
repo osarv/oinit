@@ -1,8 +1,8 @@
 {
-  "versionCode": 1644,
-  "versionName": "0.1.1644",
-  "exe": "OAgent-1644.exe.enc",
-  "sha256": "7303256b1d1be737eb86fdaa7133beae11faf5c29acccb0ac1c38d4f423deb67",
-  "size": 6418432,
-  "notes": "Phone: release 0.1.1644 (from 05d060fc, olang master full LTO, 0 bl mulAdd): Settings > Appearance - text, heading and code fonts (IBM Plex Sans/Mono, Cormorant Garamond), ready themes (OAgent, Light, Dark, Odysx) and a colour card"
+  "versionCode": 1648,
+  "versionName": "0.1.1648",
+  "exe": "OAgent-1648.exe.enc",
+  "sha256": "3f4ecd227ba37d8ee2009b4282be634bd3579a6ae8bfd375e6ced10e1d7f7c06",
+  "size": 6480896,
+  "notes": "Phone: release 0.1.1648 (from d9bbb8b3, olang master full LTO, 0 bl mulAdd): the compute pool on the phone - its res op every 10 minutes when changed, the jobs named for it run through the launcher in the Debian prefix"
 }

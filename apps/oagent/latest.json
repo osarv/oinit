@@ -1,8 +1,8 @@
 {
-  "versionCode": 1644,
-  "versionName": "0.1.1644",
-  "apk": "oagent-1644.apk.enc",
-  "sha256": "1998b0cdeb2498b642363277bf1e91ffdd5457f3108c3dc0ac0e85dd0cd6899c",
-  "size": 2638730,
-  "notes": "App: Settings > Appearance - text, heading and code fonts (IBM Plex Sans/Mono, Cormorant Garamond, OFL with their licences; defaults unchanged), ready themes (OAgent, Light, Dark, Odysx) and a colour card (background, text, accent, bubbles, code swatches), kept as one line (look file); Plex Mono falls back to JetBrains Mono for powerline glyphs"
+  "versionCode": 1648,
+  "versionName": "0.1.1648",
+  "apk": "oagent-1648.apk.enc",
+  "sha256": "f0de6f777d72be095f8bc076421797c17f0080a7eafa3e7495b94109a086660d",
+  "size": 2663306,
+  "notes": "Compute pool, the apps' part: res op at start and every 10 minutes when changed, the jobs named for the device run in its synced workspace's jobs/ID (phone: a pty through the launcher in the Debian prefix; desktop: WSL2, wsl.exe --cd, each on a thread, WSL's resources by Res.Look); shared ResOp/ToStart/StateOp in pool.olang with tests"
 }
