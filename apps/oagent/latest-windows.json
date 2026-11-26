@@ -1,8 +1,8 @@
 {
-  "versionCode": 1775,
-  "versionName": "0.1.1775",
-  "exe": "OAgent-1775.exe.enc",
-  "sha256": "1d3068b73dfc036a0353f4ddb8ec70d3ea75c9a004f967e857a40297ad461075",
+  "versionCode": 1784,
+  "versionName": "0.1.1784",
+  "exe": "OAgent-1784.exe.enc",
+  "sha256": "e6f3a66f67b10a4ab0464f77887bdf8e27c8f25f9cb4b97d49917b663dc83c36",
   "size": 6968832,
-  "notes": "Phone: release 0.1.1775 (from e96976d7, olang master 08877ff: the '~' links, 'is', 'is null' migration; 0 bl mulAdd; 51 screenshots identical to 0.1.1766's)"
+  "notes": "Phone: release 0.1.1784 (from d92f062a, olang 08877ff, 0 bl mulAdd): the voice keyboard: OAgent's dictation in any app, and as Android's voice input"
 }
