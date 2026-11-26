@@ -1,8 +1,8 @@
 {
-  "versionCode": 1689,
-  "versionName": "0.1.1689",
-  "exe": "OAgent-1689.exe.enc",
-  "sha256": "75f9ce8223fac0eef941409e8efaa60c9ea5daf46eaed9d090c934bb86ea64b4",
-  "size": 7611904,
-  "notes": "Phone: release 0.1.1689 (from b8c5e3b5, olang master stock ThinLTO, 0 bl mulAdd): the dictation stop never steered (fast stops again); send while dictating waits for the last words; the core link without a reconnect storm"
+  "versionCode": 1696,
+  "versionName": "0.1.1696",
+  "exe": "OAgent-1696.exe.enc",
+  "sha256": "a005d8dc82bb2aa69b259eaf44e836ee3ff0134a503c1fb0748c4eaabdd53d85",
+  "size": 6770688,
+  "notes": "Phone: release 0.1.1696 (from e8afd552, olang master stock): the Terminal above the Chat; the device chip beside the model's, a tap moves the chat to another device"
 }
