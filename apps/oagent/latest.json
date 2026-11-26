@@ -1,8 +1,8 @@
 {
-  "versionCode": 1698,
-  "versionName": "0.1.1698",
-  "apk": "oagent-1698.apk.enc",
-  "sha256": "bf525090faae3495392755d57f3659e3c81684963b5ba990add2b9bfb8af4a3d",
-  "size": 3056522,
-  "notes": "Pairing identity and device names: DATA/devices written whole (renamed in), a failed or empty read answered 'try again', never 'revoked'; a device never removes itself; the app identity read three times, written whole, an unreadable one kept aside; the link retries an unreadable pairing file with backoff (phone, desktop). Names from the OS: a new pairing is named by Android's device name (Settings.Global device_name, Bluetooth name, model) or the Windows computer name; pairing again with a known name replaces that entry (old token revoked, name kept, never -2); label ops (the OS name by default, the Pi's hostname; Devices page Rename -> cmd rename) shown on the Devices page. Tests: wire, group labels, ui Devices page; E2E re-pair and rename on a local core"
+  "versionCode": 1727,
+  "versionName": "0.1.1727",
+  "apk": "oagent-1727.apk.enc",
+  "sha256": "17b2970b4ca902d89c32551bccf6813e49c69dab23754327483ee3c02edbb3aa",
+  "size": 3068810,
+  "notes": "GPU jobs for the Orchestrator (item 6): POST/GET /v1/jobs, /v1/jobs/ID, its files (download, path-checked) and stop; jobs only in workspace/jobs/ID in a device's Linux, their own process group, an environment scrubbed to PATH/HOME/LANG/OAGENT_JOB*; jobstop ops acted on by the core, the phone and the desktop (WSL); every submit and stop audited; the devices frame carries the jobs, {do:jobstop} taken; cuda-toolkit listed for the x86_64 GPU devices, NVIDIA's WSL-Ubuntu repository added in WSL only. Tests (pool 6) and a two-kernel E2E (docs/peers.md)"
 }

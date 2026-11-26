@@ -1,8 +1,8 @@
 {
-  "versionCode": 1698,
-  "versionName": "0.1.1698",
-  "exe": "OAgent-1698.exe.enc",
-  "sha256": "d8805211eac280703a6b64aa5863eea10bbccbf9b6f051fb88a16d4b43baaef8",
-  "size": 7676928,
-  "notes": "Phone: release 0.1.1698 (from 2c30651a, olang master d6c4800 stock ThinLTO, 0 bl mulAdd): device names from Android (device_name, Bluetooth name, model), a re-paired name replaces its entry, labels and Rename on the Devices page; the pairing and identity never lost to a failed read; the core link retries an unreadable pairing"
+  "versionCode": 1727,
+  "versionName": "0.1.1727",
+  "exe": "OAgent-1727.exe.enc",
+  "sha256": "b678da3c997d24795ac5f6740491ecd5a064409c0b83972b23b37f5ce4878d74",
+  "size": 7712768,
+  "notes": "Phone: release 0.1.1727 (from a2ea04fe, olang master d6c4800 stock, 0 bl mulAdd): GPU jobs for the Orchestrator; a job's stop acted on (its process group in the launcher's Debian), jobs run with a scrubbed environment"
 }
