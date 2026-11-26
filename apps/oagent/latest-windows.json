@@ -1,8 +1,8 @@
 {
-  "versionCode": 1696,
-  "versionName": "0.1.1696",
-  "exe": "OAgent-1696.exe.enc",
-  "sha256": "a005d8dc82bb2aa69b259eaf44e836ee3ff0134a503c1fb0748c4eaabdd53d85",
-  "size": 6770688,
-  "notes": "Phone: release 0.1.1696 (from e8afd552, olang master stock): the Terminal above the Chat; the device chip beside the model's, a tap moves the chat to another device"
+  "versionCode": 1698,
+  "versionName": "0.1.1698",
+  "exe": "OAgent-1698.exe.enc",
+  "sha256": "d8805211eac280703a6b64aa5863eea10bbccbf9b6f051fb88a16d4b43baaef8",
+  "size": 7676928,
+  "notes": "Phone: release 0.1.1698 (from 2c30651a, olang master d6c4800 stock ThinLTO, 0 bl mulAdd): device names from Android (device_name, Bluetooth name, model), a re-paired name replaces its entry, labels and Rename on the Devices page; the pairing and identity never lost to a failed read; the core link retries an unreadable pairing"
 }
