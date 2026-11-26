@@ -1,8 +1,8 @@
 {
-  "versionCode": 1666,
-  "versionName": "0.1.1666",
-  "exe": "OAgent-1666.exe.enc",
-  "sha256": "c96756e7b0d4a84b9b91583926f27e4be232968b6e522d53b05fb6a1ba557cb2",
-  "size": 7606784,
-  "notes": "Phone: release 0.1.1666 (from f414a607, olang master stock ThinLTO, 0 bl mulAdd): dictation biased by the conversation at the old speed (steered beam only where a live pass's choice would change; the stop's within 0.2 s)"
+  "versionCode": 1682,
+  "versionName": "0.1.1682",
+  "exe": "OAgent-1682.exe.enc",
+  "sha256": "b944326d2aefb5dfc3724bcbf19eca48bad7e9cfce281f0622eaafc5fb545e38",
+  "size": 7612416,
+  "notes": "Phone: release 0.1.1682 (from af42abe0, olang master stock ThinLTO, 0 bl mulAdd): the core link without a reconnect storm (one attempt at a time, backoff with jitter, a new network closes the old link)"
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 1666,
-  "versionName": "0.1.1666",
-  "apk": "oagent-1666.apk.enc",
-  "sha256": "8b89840d97e53822d34e33811d818b59b95163b82da1f79797604743e4d8795e",
+  "versionCode": 1682,
+  "versionName": "0.1.1682",
+  "apk": "oagent-1682.apk.enc",
+  "sha256": "4a7d577d4021827b213ac6ed9c5a4e71a5e7eb2d649ff7b7aa04c27d4469c0fb",
   "size": 3036042,
-  "notes": "Dictation bias at the old speed: steer only where a live pass's choice would change, the rest settles as before; the stop's beam within 0.2 s (predicted, then cut) else the unsteered words; tests"
+  "notes": "Core link: no reconnect storm. Apps: one attempt at a time, wire.Backoff (1 s doubling to 30 s, 25% jitter) after every failed attempt and every connection that ended (from 1 s only after one that lasted 30 s), naps not cut short by commands or ticks, the phone closes its link when the network changes; desktop: one link thread at a time. Core: a device's new sign-in closes its older connections (logged once). Pi firewall 7443: 30 new/min, shut out 2 min (was 20/min, 1 h)."
 }
