@@ -1,8 +1,8 @@
 {
-  "versionCode": 1727,
-  "versionName": "0.1.1727",
-  "apk": "oagent-1727.apk.enc",
-  "sha256": "17b2970b4ca902d89c32551bccf6813e49c69dab23754327483ee3c02edbb3aa",
-  "size": 3068810,
-  "notes": "GPU jobs for the Orchestrator (item 6): POST/GET /v1/jobs, /v1/jobs/ID, its files (download, path-checked) and stop; jobs only in workspace/jobs/ID in a device's Linux, their own process group, an environment scrubbed to PATH/HOME/LANG/OAGENT_JOB*; jobstop ops acted on by the core, the phone and the desktop (WSL); every submit and stop audited; the devices frame carries the jobs, {do:jobstop} taken; cuda-toolkit listed for the x86_64 GPU devices, NVIDIA's WSL-Ubuntu repository added in WSL only. Tests (pool 6) and a two-kernel E2E (docs/peers.md)"
+  "versionCode": 1733,
+  "versionName": "0.1.1733",
+  "apk": "oagent-1733.apk.enc",
+  "sha256": "9d86c185479161567fed3909fd8a159aa4f2071f3e3064b0463b689141eb60f7",
+  "size": 3097482,
+  "notes": "Top bar: OAgent's name bold and a step larger (atlas.GetTitle), then its direct sub-agents at work as chips in priority order (normal first), a running one with an activity dot, scrolling sideways; a chip opens that agent; the open questions' count at the right. Agent priority (agent_start priority normal|low, at most the starter's): kept and synced, hidden; low agents get at most 2 of the 6 request slots and a niced bash (core/docs/peers.md). Devices page: the pool's jobs (devices frame jobs), a job's page with Stop -> jobstop. Tests"
 }

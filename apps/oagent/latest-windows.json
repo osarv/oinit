@@ -1,8 +1,8 @@
 {
-  "versionCode": 1727,
-  "versionName": "0.1.1727",
-  "exe": "OAgent-1727.exe.enc",
-  "sha256": "b678da3c997d24795ac5f6740491ecd5a064409c0b83972b23b37f5ce4878d74",
-  "size": 7712768,
-  "notes": "Phone: release 0.1.1727 (from a2ea04fe, olang master d6c4800 stock, 0 bl mulAdd): GPU jobs for the Orchestrator; a job's stop acted on (its process group in the launcher's Debian), jobs run with a scrubbed environment"
+  "versionCode": 1733,
+  "versionName": "0.1.1733",
+  "exe": "OAgent-1733.exe.enc",
+  "sha256": "f58f350518deaec41ec4d0b5f171fb9b4721a810f7880c1eb275108dbb1dbd33",
+  "size": 7879680,
+  "notes": "Phone: release 0.1.1733 (from 70ad6880, olang master d6c4800 stock, 0 bl mulAdd): Audit risky-only with reasons; each page's own latest list; Settings and pages cleaned up; Odysx the default theme, Appearance reset with undo; top bar with the agent's name and its sub-agents; agent priority; Jobs on the Devices page"
 }
