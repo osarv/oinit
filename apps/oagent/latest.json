@@ -1,8 +1,8 @@
 {
-  "versionCode": 1784,
-  "versionName": "0.1.1784",
-  "apk": "oagent-1784.apk.enc",
-  "sha256": "2698453b30f0c4f64def8e4777164015e2f2d1b065e58122d0812ab7666ee059",
+  "versionCode": 1792,
+  "versionName": "0.1.1792",
+  "apk": "oagent-1792.apk.enc",
+  "sha256": "b53229f44a41714aca14bbc780e06dd8c23f7191efe8e73bb10e1314f8415052",
   "size": 2888718,
-  "notes": "Voice keyboard: its JNI entries in oagent.olang beside the app's (olang refuses an import reached only through exports)"
+  "notes": "Voice keyboard as OAgent's recording bar (Oscar, 2026-11-26: \"three buttons\"): × (drop, back), the waveform and time, ■ (in, back), ↑ (in, then the editor's send); drawn like render.recording in Odysx's colours; levels from voice.Next (L, gated by the room's noise as the app's). README"
 }
