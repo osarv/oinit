@@ -1,8 +1,8 @@
 {
-  "versionCode": 1633,
-  "versionName": "0.1.1633",
-  "apk": "oagent-1633.apk.enc",
-  "sha256": "80b0e75e301a243020491d282042acc3fe03c987de805b9a015124b3034f7561",
-  "size": 2093962,
-  "notes": "Rich conversation, part 2 (phone/app/docs/rich.md): tool activity cards (icon by kind, short form, state, time; a command's output on its call's card, live while it runs; look-only calls folded into one card); grouped cards for Settings, Memory, Decisions and Devices in one card style (View.Page, Joined rows); decision times read in nanoseconds (tests)"
+  "versionCode": 1644,
+  "versionName": "0.1.1644",
+  "apk": "oagent-1644.apk.enc",
+  "sha256": "1998b0cdeb2498b642363277bf1e91ffdd5457f3108c3dc0ac0e85dd0cd6899c",
+  "size": 2638730,
+  "notes": "App: Settings > Appearance - text, heading and code fonts (IBM Plex Sans/Mono, Cormorant Garamond, OFL with their licences; defaults unchanged), ready themes (OAgent, Light, Dark, Odysx) and a colour card (background, text, accent, bubbles, code swatches), kept as one line (look file); Plex Mono falls back to JetBrains Mono for powerline glyphs"
 }

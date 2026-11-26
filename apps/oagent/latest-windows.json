@@ -1,8 +1,8 @@
 {
-  "versionCode": 1633,
-  "versionName": "0.1.1633",
-  "exe": "OAgent-1633.exe.enc",
-  "sha256": "755e7cd6f708d005f58aa5281ab6c9260a7edd59277543426c2c56d493b1319c",
-  "size": 4854272,
-  "notes": "Phone: release 0.1.1633 (from 913c3e89, olang master full LTO, 0 bl mulAdd): rich conversation part 1 (plan card, code blocks with Copy, tables, diagrams) and part 2 (tool activity cards; grouped cards for Settings, Memory, Decisions and Devices)"
+  "versionCode": 1644,
+  "versionName": "0.1.1644",
+  "exe": "OAgent-1644.exe.enc",
+  "sha256": "7303256b1d1be737eb86fdaa7133beae11faf5c29acccb0ac1c38d4f423deb67",
+  "size": 6418432,
+  "notes": "Phone: release 0.1.1644 (from 05d060fc, olang master full LTO, 0 bl mulAdd): Settings > Appearance - text, heading and code fonts (IBM Plex Sans/Mono, Cormorant Garamond), ready themes (OAgent, Light, Dark, Odysx) and a colour card"
 }
