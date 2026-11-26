@@ -1,8 +1,8 @@
 {
-  "versionCode": 1733,
-  "versionName": "0.1.1733",
-  "exe": "OAgent-1733.exe.enc",
-  "sha256": "f58f350518deaec41ec4d0b5f171fb9b4721a810f7880c1eb275108dbb1dbd33",
-  "size": 7879680,
-  "notes": "Phone: release 0.1.1733 (from 70ad6880, olang master d6c4800 stock, 0 bl mulAdd): Audit risky-only with reasons; each page's own latest list; Settings and pages cleaned up; Odysx the default theme, Appearance reset with undo; top bar with the agent's name and its sub-agents; agent priority; Jobs on the Devices page"
+  "versionCode": 1751,
+  "versionName": "0.1.1751",
+  "exe": "OAgent-1751.exe.enc",
+  "sha256": "6f00b7044b2be57dbc0a02b013a0708559eaf86420d7733482c5c787c30befb0",
+  "size": 6962176,
+  "notes": "Phone: release 0.1.1751 (from 60711cce, olang master stock, 0 bl mulAdd): the Agents page as a tree (levels set in, guide lines, OAgent at the root); with sub-agents in the top bar on a client of the core, crash logging, Max spend/steps shown at once, the month's spend never below a chat's, the Devices page's buttons and state dots, the round icon"
 }

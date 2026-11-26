@@ -1,8 +1,8 @@
 {
-  "versionCode": 1733,
-  "versionName": "0.1.1733",
-  "apk": "oagent-1733.apk.enc",
-  "sha256": "9d86c185479161567fed3909fd8a159aa4f2071f3e3064b0463b689141eb60f7",
-  "size": 3097482,
-  "notes": "Top bar: OAgent's name bold and a step larger (atlas.GetTitle), then its direct sub-agents at work as chips in priority order (normal first), a running one with an activity dot, scrolling sideways; a chip opens that agent; the open questions' count at the right. Agent priority (agent_start priority normal|low, at most the starter's): kept and synced, hidden; low agents get at most 2 of the 6 request slots and a niced bash (core/docs/peers.md). Devices page: the pool's jobs (devices frame jobs), a job's page with Stop -> jobstop. Tests"
+  "versionCode": 1751,
+  "versionName": "0.1.1751",
+  "apk": "oagent-1751.apk.enc",
+  "sha256": "40fef0146e0025a95cd101d7288b6c1d83b629c53ff98352f5d53015f0fa12c5",
+  "size": 2876298,
+  "notes": "Agents page as a tree (the Orchestrator, 2026-11-26): each level set in one step (TreeStepDp 16), its card too; a thin guide line under each parent's dot down to its children with an elbow into each (ui.TreeGuides); OAgent at the root in the top bar's title face. Rows no longer indented by spaces in their names. Test (ui), shot.TreeShots (OAGENT_SHOTS=tree)"
 }
