@@ -1,8 +1,8 @@
 {
-  "versionCode": 1792,
-  "versionName": "0.1.1792",
-  "apk": "oagent-1792.apk.enc",
-  "sha256": "b53229f44a41714aca14bbc780e06dd8c23f7191efe8e73bb10e1314f8415052",
-  "size": 2888718,
-  "notes": "Voice keyboard as OAgent's recording bar (Oscar, 2026-11-26: \"three buttons\"): × (drop, back), the waveform and time, ■ (in, back), ↑ (in, then the editor's send); drawn like render.recording in Odysx's colours; levels from voice.Next (L, gated by the room's noise as the app's). README"
+  "versionCode": 1815,
+  "versionName": "0.1.1815",
+  "apk": "oagent-1815.apk.enc",
+  "sha256": "cead0b2c42a4b4a83935810199f96a419bb5bc0063c87d7642fdc7e6557d7b5a",
+  "size": 2860046,
+  "notes": "Core, app, desktop: loops over lists as plain for (an olang .Iter() over records kept a copy of each element every pass: the Pi core grew 10 MB/s and was OOM-killed); desktop: one window at a time"
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 1792,
-  "versionName": "0.1.1792",
-  "exe": "OAgent-1792.exe.enc",
-  "sha256": "178e21eeba5b4dacbc4154bb104f4000f76d74382df0371580193281cb97f551",
-  "size": 6968832,
-  "notes": "Phone: release 0.1.1792 (from 54ae3bbe, olang 08877ff, 0 bl mulAdd): the voice keyboard as OAgent's recording bar: ×, ■ and ↑"
+  "versionCode": 1815,
+  "versionName": "0.1.1815",
+  "exe": "OAgent-1815.exe.enc",
+  "sha256": "a28ef79d11db257a4de30c81895b34492fc7834c92846ee1964ebb5c6f81f7ac",
+  "size": 6898176,
+  "notes": "Phone: release 0.1.1815 (from 243d325e, olang 08877ff, 0 bl mulAdd): the Pi core no longer runs out of memory (an olang loop kept copies); the desktop app opens one window at a time"
 }
