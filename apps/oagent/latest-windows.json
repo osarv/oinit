@@ -1,8 +1,8 @@
 {
-  "versionCode": 1815,
-  "versionName": "0.1.1815",
-  "exe": "OAgent-1815.exe.enc",
-  "sha256": "a28ef79d11db257a4de30c81895b34492fc7834c92846ee1964ebb5c6f81f7ac",
-  "size": 6898176,
-  "notes": "Phone: release 0.1.1815 (from 243d325e, olang 08877ff, 0 bl mulAdd): the Pi core no longer runs out of memory (an olang loop kept copies); the desktop app opens one window at a time"
+  "versionCode": 1831,
+  "versionName": "0.1.1831",
+  "exe": "OAgent-1831.exe.enc",
+  "sha256": "5f9c1ae1d4b547b032025a99d7149e2c5787a39a030875c787221deb2ee61d21",
+  "size": 21195776,
+  "notes": "Phone: release 0.1.1831 (from 5582b29a, olang 08877ff, 0 bl mulAdd): v5, OAgent's own story model, in the model picker (runs on the device, no key); Alt+Enter toggles fullscreen on the PC"
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 1815,
-  "versionName": "0.1.1815",
-  "apk": "oagent-1815.apk.enc",
-  "sha256": "cead0b2c42a4b4a83935810199f96a419bb5bc0063c87d7642fdc7e6557d7b5a",
-  "size": 2860046,
-  "notes": "Core, app, desktop: loops over lists as plain for (an olang .Iter() over records kept a copy of each element every pass: the Pi core grew 10 MB/s and was OOM-killed); desktop: one window at a time"
+  "versionCode": 1831,
+  "versionName": "0.1.1831",
+  "apk": "oagent-1831.apk.enc",
+  "sha256": "ed35ff08aa3742a9f8a66b5cf3e4195788e2830b3f8472324e05e74a413bb762",
+  "size": 15909902,
+  "notes": "Merge branch 'claude/project-thread-sgnn8e' of https://github.com/osarv/oagent"
 }
