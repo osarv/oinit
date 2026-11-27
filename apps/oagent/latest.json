@@ -1,8 +1,8 @@
 {
-  "versionCode": 1831,
-  "versionName": "0.1.1831",
-  "apk": "oagent-1831.apk.enc",
-  "sha256": "ed35ff08aa3742a9f8a66b5cf3e4195788e2830b3f8472324e05e74a413bb762",
+  "versionCode": 1833,
+  "versionName": "0.1.1833",
+  "apk": "oagent-1833.apk.enc",
+  "sha256": "d8d636298f51a05cb61ecb4db8ffc58c235ff0818e4c46d8ecaf70586169f2f8",
   "size": 15909902,
-  "notes": "Merge branch 'claude/project-thread-sgnn8e' of https://github.com/osarv/oagent"
+  "notes": "Desktop 0.1.1831 and Pi core 0.1.1831 (from 5582b29a + the phone release, olang 08877ff with the Windows std fix; 0 call mulAdd; Wine check and release check pass; the Pi binary checked under qemu)"
 }
