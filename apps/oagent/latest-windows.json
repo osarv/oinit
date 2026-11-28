@@ -1,8 +1,8 @@
 {
-  "versionCode": 1833,
-  "versionName": "0.1.1833",
-  "exe": "OAgent-1833.exe.enc",
-  "sha256": "ff6da77441da69eb2d4807bc558a970f3f7fa68dc8fb087f010b530f9e64c81d",
-  "size": 21195264,
-  "notes": "Phone: release 0.1.1833 (from 978fcf5e, olang master 6467574, 0 bl mulAdd): built with olang master: the Pi core's remaining slow memory growth (values copied on return) is gone"
+  "versionCode": 1871,
+  "versionName": "0.1.1871",
+  "exe": "OAgent-1871.exe.enc",
+  "sha256": "d3db6651a9d87881efb0078e2ab563e328dd5f9e3859beb977e2a708768d23c3",
+  "size": 21041152,
+  "notes": "Phone: release 0.1.1871 (from 57c5e618, olang master 6467574, 0 bl mulAdd): the story model is now v6 (better stories, smaller)"
 }
