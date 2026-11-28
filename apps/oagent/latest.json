@@ -1,8 +1,8 @@
 {
-  "versionCode": 1916,
-  "versionName": "0.1.1916",
-  "apk": "oagent-1916.apk.enc",
-  "sha256": "48a3964c646b17892e818c5cd3a037a4401495e441cf37c48ad31091b9049f42",
-  "size": 2888718,
-  "notes": "Desktop 0.1.1911 and Pi core 0.1.1911 (from 6526bfa9 + the phone release, olang master 6467574; 0 call mulAdd; Wine check and release check pass; the Pi binary checked under qemu)"
+  "versionCode": 1919,
+  "versionName": "0.1.1919",
+  "apk": "oagent-1919.apk.enc",
+  "sha256": "3cac937c2cbe01f982605974fc9ea6f46be78c00bb66ac262c677dc9f50ed879",
+  "size": 2921486,
+  "notes": "Pictures: Markdown images (PNG, JPEG) drawn in documents and the chat; install.UseIcon replaces the icon whole"
 }

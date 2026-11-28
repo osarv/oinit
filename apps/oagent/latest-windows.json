@@ -1,8 +1,8 @@
 {
-  "versionCode": 1916,
-  "versionName": "0.1.1916",
-  "exe": "OAgent-1916.exe.enc",
-  "sha256": "11c9fd3b445fe7adc14fad5698b5d79d4f98d34aaefc83ba18520490d7796b46",
-  "size": 6975488,
-  "notes": "Phone: release 0.1.1916 (from 8568038c, olang master 6467574, 0 bl mulAdd): the terminal code now comes from its own repository (OTerm); no visible change"
+  "versionCode": 1919,
+  "versionName": "0.1.1919",
+  "exe": "OAgent-1919.exe.enc",
+  "sha256": "eb631d6d8d94e3664ba0d31d3b41aa5f138ae4301a48f286b67f80d6a88ce21b",
+  "size": 6990336,
+  "notes": "Phone: release 0.1.1919 (from a203c020, olang master 0529233, 0 bl mulAdd): pictures in documents and the chat (Markdown images, PNG and JPEG)"
 }
