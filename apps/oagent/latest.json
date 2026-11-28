@@ -1,8 +1,8 @@
 {
-  "versionCode": 1908,
-  "versionName": "0.1.1908",
-  "apk": "oagent-1908.apk.enc",
-  "sha256": "30ad09769dad2641efa0bd9dd1ac320e4702b1c3aac171ac4bd0248738671e0c",
+  "versionCode": 1911,
+  "versionName": "0.1.1911",
+  "apk": "oagent-1911.apk.enc",
+  "sha256": "2afcc99888f1fc382b999ac50b6bcd91333612d3723b70520b376a073e336c9e",
   "size": 2884622,
-  "notes": "Document viewer: an agent shows a Markdown file beside the chat (show_document); a pane at the right on a desktop, a page on a phone"
+  "notes": "Terminal: pasted text cannot leave bracketed paste; \"..\" out of a passthrough folder maps to the guest; dictation never presses Enter; versioned Provides"
 }

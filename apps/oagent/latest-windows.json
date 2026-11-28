@@ -1,8 +1,8 @@
 {
-  "versionCode": 1908,
-  "versionName": "0.1.1908",
-  "exe": "OAgent-1908.exe.enc",
-  "sha256": "3e3f2253ab1112e150f3e57cb8e06765d5ed7ae6f8b6cb8e7a40332728208bfd",
-  "size": 6963712,
-  "notes": "Phone: release 0.1.1908 (from b74cf434, olang master 6467574, 0 bl mulAdd): a document viewer: an agent can show a Markdown document in a pane beside the chat (a page on the phone), Ctrl+Shift+D shows and hides it"
+  "versionCode": 1911,
+  "versionName": "0.1.1911",
+  "exe": "OAgent-1911.exe.enc",
+  "sha256": "cc1fbcc28735b947bb3f00a87931498a88469c4e137a9ae79868e90d3e22f652",
+  "size": 6963200,
+  "notes": "Phone: release 0.1.1911 (from 6526bfa9, olang master 6467574, 0 bl mulAdd): security: pasted text can no longer break out of bracketed paste in the terminal; dictation in a terminal never presses Enter; package and path fixes"
 }
