@@ -1,8 +1,8 @@
 {
-  "versionCode": 1905,
-  "versionName": "0.1.1905",
-  "exe": "OAgent-1905.exe.enc",
-  "sha256": "f3ac62f91f3818373e21aa95a6c612899036237f8454a4ecad76f5e95b6f06ab",
-  "size": 6908928,
-  "notes": "Phone: release 0.1.1905 (from 470d325b, olang master 6467574, 0 bl mulAdd): storage hardened: a key file that fails to read is never overwritten, cut or failed appends to the chat and op logs are repaired, files are written whole"
+  "versionCode": 1908,
+  "versionName": "0.1.1908",
+  "exe": "OAgent-1908.exe.enc",
+  "sha256": "3e3f2253ab1112e150f3e57cb8e06765d5ed7ae6f8b6cb8e7a40332728208bfd",
+  "size": 6963712,
+  "notes": "Phone: release 0.1.1908 (from b74cf434, olang master 6467574, 0 bl mulAdd): a document viewer: an agent can show a Markdown document in a pane beside the chat (a page on the phone), Ctrl+Shift+D shows and hides it"
 }

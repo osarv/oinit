@@ -1,8 +1,8 @@
 {
-  "versionCode": 1905,
-  "versionName": "0.1.1905",
-  "apk": "oagent-1905.apk.enc",
-  "sha256": "acc7c6d0958ba8c7b558d93fffd80d0b0c068d9f829fabe67b9f355affc0513b",
-  "size": 2860046,
-  "notes": "Storage: a key file that fails to read is never overwritten; a cut or failed append is repaired and made again; whole files are written by rename"
+  "versionCode": 1908,
+  "versionName": "0.1.1908",
+  "apk": "oagent-1908.apk.enc",
+  "sha256": "30ad09769dad2641efa0bd9dd1ac320e4702b1c3aac171ac4bd0248738671e0c",
+  "size": 2884622,
+  "notes": "Document viewer: an agent shows a Markdown file beside the chat (show_document); a pane at the right on a desktop, a page on a phone"
 }
