@@ -1,8 +1,8 @@
 {
-  "versionCode": 1891,
-  "versionName": "0.1.1891",
-  "exe": "OAgent-1891.exe.enc",
-  "sha256": "2006eeccafff5c58ad7ab81e29a103a6aa57d88fcbd7690730d892d00dbf4cdc",
-  "size": 6898688,
-  "notes": "Phone: release 0.1.1891 (from 76200b77, olang master 6467574, 0 bl mulAdd): the on-device story model removed again; a chat set to it goes back to the default model"
+  "versionCode": 1905,
+  "versionName": "0.1.1905",
+  "exe": "OAgent-1905.exe.enc",
+  "sha256": "f3ac62f91f3818373e21aa95a6c612899036237f8454a4ecad76f5e95b6f06ab",
+  "size": 6908928,
+  "notes": "Phone: release 0.1.1905 (from 470d325b, olang master 6467574, 0 bl mulAdd): storage hardened: a key file that fails to read is never overwritten, cut or failed appends to the chat and op logs are repaired, files are written whole"
 }
