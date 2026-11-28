@@ -1,8 +1,8 @@
 {
-  "versionCode": 1923,
-  "versionName": "0.1.1923",
-  "apk": "oagent-1923.apk.enc",
-  "sha256": "b5e9699b5a118ebfb196d16be2bf3b0f8463f2907286ba48cfafb3a6a3cc9251",
-  "size": 2921486,
-  "notes": "Desktop: no console window for package and job commands (closing it ended the app); the last run's log kept as oagent.prev.log"
+  "versionCode": 1926,
+  "versionName": "0.1.1926",
+  "apk": "oagent-1926.apk.enc",
+  "sha256": "01d8b12466e5609d9be0c8e281e80c96a2c7a2ba79ff35d34020044b2ca60d7f",
+  "size": 2925582,
+  "notes": "Pictures: generate_image, drawn on the PC by oann-image's server mode (the runner sends each call, the PC answers with its steps and the PNG, kept in pictures/)"
 }

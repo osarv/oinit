@@ -1,7 +1,7 @@
 {
-  "version": "0.1.1923",
-  "bin": "oagent-core-0.1.1923.enc",
-  "sha256": "b26e9188af53fedbd15e7fa3346c0505ff5b0df236fdea84542131453ca7bb53",
-  "size": 2565984,
-  "sig": "000303b6c2f8a5db010232c6150067ebbced008e41d49a1a1bdbd9f9253bdfd211a179881ea46afd1b58f41c09f5a5c8f9a9fb3479f08d36e55a2ee7594a2209"
+  "version": "0.1.1926",
+  "bin": "oagent-core-0.1.1926.enc",
+  "sha256": "121c3f45fb6ef6b55e4d3ba92c2d60ea916f5937f205acf1aceec6bfd9e7da22",
+  "size": 2566112,
+  "sig": "4ca0269cad4d867e382f1c2a325de0dd098bcbcf1dde4ab3e6e1eea45d86727bf84734a9732373b960588215f4cca41450eef0c367410192505d66106c7ce108"
 }
