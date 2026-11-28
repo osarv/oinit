@@ -1,8 +1,8 @@
 {
-  "versionCode": 1919,
-  "versionName": "0.1.1919",
-  "apk": "oagent-1919.apk.enc",
-  "sha256": "3cac937c2cbe01f982605974fc9ea6f46be78c00bb66ac262c677dc9f50ed879",
+  "versionCode": 1923,
+  "versionName": "0.1.1923",
+  "apk": "oagent-1923.apk.enc",
+  "sha256": "b5e9699b5a118ebfb196d16be2bf3b0f8463f2907286ba48cfafb3a6a3cc9251",
   "size": 2921486,
-  "notes": "Pictures: Markdown images (PNG, JPEG) drawn in documents and the chat; install.UseIcon replaces the icon whole"
+  "notes": "Desktop: no console window for package and job commands (closing it ended the app); the last run's log kept as oagent.prev.log"
 }

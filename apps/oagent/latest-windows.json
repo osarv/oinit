@@ -1,8 +1,8 @@
 {
-  "versionCode": 1919,
-  "versionName": "0.1.1919",
-  "exe": "OAgent-1919.exe.enc",
-  "sha256": "eb631d6d8d94e3664ba0d31d3b41aa5f138ae4301a48f286b67f80d6a88ce21b",
+  "versionCode": 1923,
+  "versionName": "0.1.1923",
+  "exe": "OAgent-1923.exe.enc",
+  "sha256": "58656a95e51c9cf9b32b97cc8b76e7f83562a7249070bb66a49ee3406aabf0ad",
   "size": 6990336,
-  "notes": "Phone: release 0.1.1919 (from a203c020, olang master 0529233, 0 bl mulAdd): pictures in documents and the chat (Markdown images, PNG and JPEG)"
+  "notes": "Phone: release 0.1.1923 (from e39ca17b, olang master 0529233, 0 bl mulAdd): the PC app no longer opens a console window for its commands (closing that window closed the app); olang runtime: console programs start with CREATE_NO_WINDOW when the parent has no console"
 }
