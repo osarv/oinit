@@ -1,8 +1,8 @@
 {
-  "versionCode": 1871,
-  "versionName": "0.1.1871",
-  "apk": "oagent-1871.apk.enc",
-  "sha256": "bc4d5b357d3c4dca5275cd83c34e55de1a48249bd4d9655bf35df88e71033e55",
-  "size": 15750158,
-  "notes": "Merge branch 'claude/project-thread-sgnn8e' of https://github.com/osarv/oagent"
+  "versionCode": 1891,
+  "versionName": "0.1.1891",
+  "apk": "oagent-1891.apk.enc",
+  "sha256": "ab7b2242d52c52090ab081ac414fb0e6118aa7d2274bac5d8963da7886fdb4fc",
+  "size": 2860046,
+  "notes": "Phone: the on-device story model removed again (the owner tried it: right words, not good enough) - storylm, its weights and tools gone, the picker and request workers as before; a model kept as oagent-v5/v6 (app or core) falls back to the default"
 }

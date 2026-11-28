@@ -1,8 +1,8 @@
 {
-  "versionCode": 1871,
-  "versionName": "0.1.1871",
-  "exe": "OAgent-1871.exe.enc",
-  "sha256": "d3db6651a9d87881efb0078e2ab563e328dd5f9e3859beb977e2a708768d23c3",
-  "size": 21041152,
-  "notes": "Phone: release 0.1.1871 (from 57c5e618, olang master 6467574, 0 bl mulAdd): the story model is now v6 (better stories, smaller)"
+  "versionCode": 1891,
+  "versionName": "0.1.1891",
+  "exe": "OAgent-1891.exe.enc",
+  "sha256": "2006eeccafff5c58ad7ab81e29a103a6aa57d88fcbd7690730d892d00dbf4cdc",
+  "size": 6898688,
+  "notes": "Phone: release 0.1.1891 (from 76200b77, olang master 6467574, 0 bl mulAdd): the on-device story model removed again; a chat set to it goes back to the default model"
 }
