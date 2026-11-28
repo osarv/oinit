@@ -1,8 +1,8 @@
 {
-  "versionCode": 1911,
-  "versionName": "0.1.1911",
-  "exe": "OAgent-1911.exe.enc",
-  "sha256": "cc1fbcc28735b947bb3f00a87931498a88469c4e137a9ae79868e90d3e22f652",
-  "size": 6963200,
-  "notes": "Phone: release 0.1.1911 (from 6526bfa9, olang master 6467574, 0 bl mulAdd): security: pasted text can no longer break out of bracketed paste in the terminal; dictation in a terminal never presses Enter; package and path fixes"
+  "versionCode": 1916,
+  "versionName": "0.1.1916",
+  "exe": "OAgent-1916.exe.enc",
+  "sha256": "11c9fd3b445fe7adc14fad5698b5d79d4f98d34aaefc83ba18520490d7796b46",
+  "size": 6975488,
+  "notes": "Phone: release 0.1.1916 (from 8568038c, olang master 6467574, 0 bl mulAdd): the terminal code now comes from its own repository (OTerm); no visible change"
 }
